@@ -43,7 +43,7 @@ Use the [Add Resource issue template](.github/ISSUE_TEMPLATE/add-resource.md).
 2. Add your entry to the correct file in `sections/`.
 3. Follow the entry format: `- [Name](url) — one-line description.`
 4. Add license/openness tag for datasets and models: `\`Apache 2.0\`` / `\`CC-BY-4.0\`` / `\`Open weights\``
-5. Run link validation locally: `npx awesome_bot README.md --allow-redirect`
+5. Run link validation locally (requires Ruby): `gem install awesome_bot && awesome_bot README.md --allow-redirect`
 6. Fill out the PR checklist.
 
 ## Entry format
