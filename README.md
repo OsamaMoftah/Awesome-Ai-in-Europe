@@ -2,7 +2,7 @@
 
 ![Build AI Systems in Europe](hero.png)
 
-> #'The'list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
+> list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Validate Links](https://github.com/OsamaMoftah/Awesome-Ai-infro-Europe-/actions/workflows/validate-links.yml/badge.svg)](https://github.com/OsamaMoftah/Awesome-Ai-infro-Europe-/actions/workflows/validate-links.yml)
