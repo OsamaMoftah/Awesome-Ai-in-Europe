@@ -1,12 +1,12 @@
 # Contributing to Awesome Ai-infra Europe+
 
-Thank you for helping build the best resource list for EU AI builders.
+Thank you for helping build the best resource list for European AI builders (the **+** in our name signifies the inclusion of the UK and Switzerland).
 
 ## Inclusion criteria
 
 A resource belongs on this list if it meets **all** of the following:
 
-1. **EU-relevant** — it is EU-hosted, EU-funded, EU-regulated, EU-focused, or specifically useful for developers operating under EU law (GDPR, EU AI Act, etc.).
+1. **Europe-relevant (+)** — it is hosted, funded, regulated, or focused within the EU, UK, or Switzerland, or is specifically useful for developers operating under European law (GDPR, EU AI Act, etc.).
 2. **Active** — the project, service, or resource is currently maintained or accessible.
 3. **Open or documented** — it either has an open license, or its terms/pricing are clearly published.
 4. **Specific** — it does something concrete. "AI for Europe" blog posts with no resources are not included.
@@ -26,7 +26,7 @@ If a description mentions an enforcement date or deadline, append:
 ## Scope fences — what we exclude
 
 - **Commercial-only tools** where a comparable open-source option exists.
-- **Non-EU resources** unless they are specifically designed for EU law or multi-jurisdictional use covering the EU.
+- **Non-European resources** unless they are specifically designed for European law or multi-jurisdictional use covering the EU, UK, or Switzerland.
 - **Resources behind paywalls** without a meaningful free tier or open documentation.
 - **Inactive projects** (last commit/update > 18 months with no archived status).
 - **Self-promotional additions** — if you built the resource, note it clearly and expect extra scrutiny.
