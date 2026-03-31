@@ -1,0 +1,35 @@
+## Research Labs & Institutes
+
+EU-based AI research labs and institutes.
+
+- [SDSC (Swiss Data Science Center)](https://datascience.ch/) — Switzerland. Joint ETH Zurich–EPFL initiative accelerating data science and AI adoption across research and industry. `[Academic]`
+- [INRIA](https://www.inria.fr/en) — France. National research institute for digital science and technology, with major AI research teams. `[Academic]`
+- [DFKI](https://www.dfki.de/en/web) — Germany. German Research Center for Artificial Intelligence, one of the world's largest AI research centers. `[Academic]`
+- [CWI](https://www.cwi.nl/) — Netherlands. National research institute for mathematics and computer science, with an ML research group. `[Academic]`
+- [Alan Turing Institute](https://www.turing.ac.uk/) — United Kingdom. National institute for data science and AI, named after Alan Turing. `[Academic]`
+- [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) — Germany. Leading research on perception, learning, and intelligent systems. `[Academic]`
+- [ELLIS Institutes](https://ellis.eu/) — Pan-European. Network of AI research labs across Europe focused on machine learning excellence. `[Academic]`
+- [CLAIRE](https://claire-ai.org/) — Pan-European. Confederation of Laboratories for AI Research in Europe, connecting 400+ labs. `[Academic]`
+- [LAION](https://laion.ai/) — Germany. Non-profit providing open-source large-scale datasets and models for AI research. `[Open-source]` `[Academic]`
+- [Barcelona Supercomputing Center (BSC)](https://www.bsc.es/) — Spain. Operates MareNostrum 5 pre-exascale supercomputer and hosts one of the EU's seven official AI factories. `[Academic]`
+- [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html) — Germany. Applied AI research institute near Bonn specialising in ML, NLP, and generative AI for industry. `[Academic]`
+- [Idiap Research Institute](https://www.idiap.ch/en) — Switzerland. Independent EPFL-affiliated institute researching speech, NLP, computer vision, and machine learning. `[Academic]`
+- [ETH AI Center](https://ai.ethz.ch/) — Switzerland. Central hub for AI research at ETH Zurich, with a strong focus on trustworthy AI systems. `[Academic]`
+- [Jožef Stefan Institute (AI Lab)](http://ailab.ijs.si/) — Slovenia. Leading AI and ML research lab covering knowledge technologies, data mining, and language resources. `[Academic]`
+- [ZHAW Centre for AI](https://www.zhaw.ch/en/engineering/institutes-centres/centre-for-artificial-intelligence/) — Switzerland. Applied AI research center at ZHAW specialising in computer vision, NLP, and industry transfer. `[Academic]`
+- [INSAIT](https://insait.ai/) — Bulgaria. Flagship AI research institute for South-East Europe. `[Academic]`
+- [Kyutai](https://kyutai.org/) — France. Non-profit open-science AI lab publishing open models including the Moshi real-time voice assistant. `[Academic]` `[Open-source]`
+- [CYENS Centre of Excellence](https://www.cyens.org.cy/) — Cyprus. EU-funded research center for interactive media, smart systems, and AI applications. `[Academic]`
+- [GATE Institute](https://gate-ai.eu/en/) — Bulgaria. Big Data for a Smart Society institute focusing on AI and data science. `[Academic]`
+- [LERO (The Irish Software Research Centre)](https://lero.ie/) — Ireland. National software research center with significant AI safety and ethics work. `[Academic]`
+- [AI Center of Excellence (Czechia)](https://www.ai-czechia.cz/) — Czechia. Platform connecting Czech research institutions focused on artificial intelligence. `[Academic]`
+- [University of Tartu (NLP Group)](https://nlp.cs.ut.ee/) — Estonia. Leading research group for Estonian NLP and multilingual language models. `[Academic]`
+- [ETF Belgrade (University of Belgrade)](https://www.etf.bg.ac.rs/) — Serbia. Leading engineering faculty with established AI, machine learning, and NLP research programs. `[Academic]`
+- [Kaunas University of Technology (KTU)](https://en.ktu.edu/) — Lithuania. Major technical university with focused AI and machine learning research in its Computer Science faculty. `[Academic]`
+- [FEIT Skopje (Ss. Cyril and Methodius University)](https://www.feit.ukim.mk/) — North Macedonia. Leading engineering faculty with AI and signal processing research. `[Academic]`
+- [University of Montenegro — Faculty of Electrical Engineering](https://www.ucg.ac.me/) — Montenegro. Primary engineering university in Montenegro with emerging AI and signal processing work. `[Academic]`
+- [INESC ID](https://www.inesc-id.pt/) — Portugal. Research institute at IST/ULisboa with strong AI, NLP, and machine learning groups. `[Academic]`
+- [INESC TEC](https://www.inesctec.pt/) — Portugal. Large applied research institute in Porto with AI, robotics, and data science groups. `[Academic]`
+- [Austrian Institute of Technology (AIT)](https://www.ait.ac.at/) — Austria. Austria's largest research institute, with AI safety, digital systems, and responsible AI focus. `[Academic]`
+- [TU Wien — Informatics](https://www.tuwien.at/en/) — Austria. Austria's leading technical university with AI, knowledge representation, and computer vision research. `[Academic]`
+- [Eötvös Loránd University (ELTE)](https://www.elte.hu/en) — Hungary. Budapest's flagship university with strong CS and AI research groups in NLP and machine learning. `[Academic]`

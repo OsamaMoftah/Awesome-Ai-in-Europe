@@ -1,0 +1,24 @@
+name: Validate Links
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  awesome_bot:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check links
+        uses: dkhamsing/awesome_bot@v1
+        with:
+          args: >
+            --files README.md sections/inference-providers.md sections/datasets-gdpr-safe.md
+            sections/eu-ai-act-tooling.md sections/grants-compute.md sections/models.md
+            sections/multilingual.md sections/research-labs.md sections/communities.md
+            --allow-redirect
+            --allow-dupe
+            --skip-save-results
