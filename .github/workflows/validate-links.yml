@@ -34,4 +34,4 @@ jobs:
           --allow-redirect \
           --allow-dupe \
           --skip-save-results \
-          --white-list reddit.com,youtube.com,swissai.org,serbia-ai.rs,ai-portugal.org,lietuvosai.lt,malta-ai.org,telekom.com,huggingface.co,github.com,cloud.ionos.com,swisscom.ch,pro.europeana.eu,z-examen.de,enzai.ai,cineca.it,eitdigital.eu,ffg.at,innovationfund.rs,lzp.lv,dfki.de,turing.ac.uk,ai-czechia.cz,feit.ukim.mk
+          --white-list reddit.com,youtube.com,swissai.org,serbia-ai.rs,ai-portugal.org,lietuvosai.lt,malta-ai.org,telekom.com,huggingface.co,eur-lex.europa.eu,github.com,cloud.ionos.com,swisscom.ch,pro.europeana.eu,z-examen.de,enzai.ai,cineca.it,eitdigital.eu,ffg.at,innovationfund.rs,lzp.lv,dfki.de,turing.ac.uk,ai-czechia.cz,feit.ukim.mk
