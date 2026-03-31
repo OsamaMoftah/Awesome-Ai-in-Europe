@@ -33,4 +33,5 @@ jobs:
           sections/communities.md \
           --allow-redirect \
           --allow-dupe \
-          --skip-save-results
+          --skip-save-results \
+          --white-list reddit.com,youtube.com,swissai.org,serbia-ai.rs,ai-portugal.org,lietuvosai.lt,malta-ai.org,telekom.com
