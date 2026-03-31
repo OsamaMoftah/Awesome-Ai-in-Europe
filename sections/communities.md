@@ -18,7 +18,7 @@ Communities, forums, and events for EU AI builders.
 
 ### Newsletters & Media
 
-- [ML Street Talk](https://www.youtube.com/@MLStreetTalk) — AI research discussion channel hosted by EU-based researchers including Dr. Tim Scarfe.
+- [ML Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) — AI research discussion channel hosted by EU-based researchers including Dr. Tim Scarfe.
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — Swiss-based AI researcher producing in-depth ML paper reviews and discussions.
 - [Import AI](https://jack-clark.net/) — Weekly newsletter covering AI policy and research, with regular EU regulatory coverage.
 
