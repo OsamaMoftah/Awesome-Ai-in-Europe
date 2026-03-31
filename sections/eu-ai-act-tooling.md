@@ -25,3 +25,8 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 
 - [FRIA Templates](https://github.com/ai-act-fria) — Fundamental Rights Impact Assessment templates for high-risk AI systems under the EU AI Act. `[Open-source]`
 - [ALTAI Self-Assessment](https://altai.insight-centre.org/) — Assessment List for Trustworthy AI from the EU High-Level Expert Group, a tool for self-assessing AI trustworthiness. `[Free]`
+
+### Privacy-Preserving Infrastructure
+
+- [Zama](https://zama.ai/) — French startup pioneering Fully Homomorphic Encryption (FHE) tools for running machine learning on encrypted data. `[Open-source]`
+- [Flower Labs](https://flower.ai/) — German-built open-source framework for Federated Learning, enabling AI model training on decentralized, sensitive data. `[Open-source]`

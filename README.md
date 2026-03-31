@@ -74,6 +74,9 @@ EU-based or EU-compliant LLM inference hosts.
 - [Deutsche Telekom Industrial AI Cloud](https://www.telekom.com/en/company/details/industrial-ai-cloud-1100158) — German sovereign AI cloud (T-Systems) for training and running models within Germany and EU regulations. `[EU-hosted]` `[GDPR-DPA]`
 - [IONOS AI Model Hub](https://cloud.ionos.com/ai/ai-model-hub) — German cloud provider offering LLM inference from EU-sovereign data centers. `[EU-hosted]` `[GDPR-DPA]`
 - [Nebius AI](https://nebius.com/) — Amsterdam-headquartered AI cloud offering GPU clusters and LLM API with EU data-residency and zero-retention inference options. `[EU-hosted]` `[GDPR-DPA]` `[Free tier]`
+- [STACKIT](https://stackit.com/en/) — German sovereign cloud platform (Schwarz Group) offering scalable, GDPR-compliant AI compute and model hosting. `[EU-hosted]` `[GDPR-DPA]`
+- [Nscale](https://www.nscale.com/) — UK-based high-performance vertical GPU cloud and AI infrastructure provider. `[EU-hosted]`
+- [Verda (DataCrunch)](https://verda.com/) — Nordic "green compute" AI cloud provider offering H100 clusters powered by 100% renewable energy in Finland. `[EU-hosted]` `[GDPR-DPA]`
 - [Gcore Inference](https://gcore.com/) — Luxembourg-based edge and cloud AI inference platform with sovereign EU infrastructure and 200+ Tbps network. `[EU-hosted]`
 - [Infomaniak LLM API](https://www.infomaniak.com/en/hosting/llm-api) — Swiss privacy-first managed LLM inference with eco-certified Geneva hosting and a free tier. `[EU-hosted]` `[GDPR-DPA]` `[Free tier]`
 - [Exoscale GPU Compute](https://www.exoscale.com/gpu/) — Swiss cloud provider offering A100/H100 GPU instances for model serving and AI workloads. `[EU-hosted]` `[GDPR-DPA]`
@@ -128,6 +131,11 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 
 - [FRIA Templates](https://github.com/ai-act-fria) — Fundamental Rights Impact Assessment templates for high-risk AI systems under the EU AI Act. `[Open-source]`
 - [ALTAI Self-Assessment](https://altai.insight-centre.org/) — Assessment List for Trustworthy AI from the EU High-Level Expert Group, a tool for self-assessing AI trustworthiness. `[Free]`
+
+### Privacy-Preserving Infrastructure
+
+- [Zama](https://zama.ai/) — French startup pioneering Fully Homomorphic Encryption (FHE) tools for running machine learning on encrypted data. `[Open-source]`
+- [Flower Labs](https://flower.ai/) — German-built open-source framework for Federated Learning, enabling AI model training on decentralized, sensitive data. `[Open-source]`
 
 ## Grants & Compute
 
@@ -234,6 +242,13 @@ Open model releases and model families useful for researchers and builders in Eu
 - [CeltBERT](https://huggingface.co/Geotrend/bert-base-celtic-langs) — BERT models for Celtic languages including Breton, Irish, Welsh, Manx, and Scottish Gaelic. `[Open weights]` `MIT` / `Apache 2.0`
 - [Basque BERT](https://huggingface.co/ixa-ehu/berteus-base-cased) — High-quality transformer model for the Basque language (Euskara). `[Open weights]` `Apache 2.0`
 - [Basque (Euskara) MT Models](https://huggingface.co/euskalnlp) — Machine translation models for Basque language. `[Open weights]` `Apache 2.0`
+
+### Multimodal & Domain-Specific
+
+- [FLUX (Black Forest Labs)](https://bfl.ai/) — Open-weight frontier image-generation model family from Germany, delivering state-of-the-art visual intelligence. `[Open weights]`
+- [H Company](https://www.hcompany.ai/) — French startup building foundational action models (World Models) for autonomous, multi-step reasoning and software execution.
+- [Bioptimus (H-optimus)](https://huggingface.co/bioptimus/H-optimus-0) — Open-source foundation model for pathology trained on millions of images by a French AI lab. `[Open weights]` `Apache 2.0`
+- [Poolside](https://poolside.ai/) — Foundation models for software engineering and coding, trained on execution-based reinforcement learning.
 
 ### Multilingual / Cross-lingual
 

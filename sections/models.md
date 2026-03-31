@@ -62,6 +62,13 @@ Open model releases and model families useful for researchers and builders in Eu
 - [Basque BERT](https://huggingface.co/ixa-ehu/berteus-base-cased) — High-quality transformer model for the Basque language (Euskara). `[Open weights]` `Apache 2.0`
 - [Basque (Euskara) MT Models](https://huggingface.co/euskalnlp) — Machine translation models for Basque language. `[Open weights]` `Apache 2.0`
 
+### Multimodal & Domain-Specific
+
+- [FLUX (Black Forest Labs)](https://bfl.ai/) — Open-weight frontier image-generation model family from Germany, delivering state-of-the-art visual intelligence. `[Open weights]`
+- [H Company](https://www.hcompany.ai/) — French startup building foundational action models (World Models) for autonomous, multi-step reasoning and software execution.
+- [Bioptimus (H-optimus)](https://huggingface.co/bioptimus/H-optimus-0) — Open-source foundation model for pathology trained on millions of images by a French AI lab. `[Open weights]` `Apache 2.0`
+- [Poolside](https://poolside.ai/) — Foundation models for software engineering and coding, trained on execution-based reinforcement learning.
+
 ### Multilingual / Cross-lingual
 
 - [mBERT](https://huggingface.co/google-bert/bert-base-multilingual-cased) — Google's multilingual BERT covering 104 languages. `[Open weights]` `Apache 2.0`
