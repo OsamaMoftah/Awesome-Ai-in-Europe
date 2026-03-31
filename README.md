@@ -3,6 +3,8 @@
 ![Build AI Systems in Europe](hero.png)
 
 > list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
+> 
+> 🤖 *Originally curated using a **[CrewAI](https://crewai.com/)** agentic swarm to filter out US-centric noise and verify regional hosting, licensing, and EU AI Act compliance.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
