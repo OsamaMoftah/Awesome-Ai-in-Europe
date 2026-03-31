@@ -15,7 +15,7 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 ### Monitoring / Audit
 
 - [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act. `[Open-source]` `[Academic]`
-- [LNE AI Act Checklist](https://www.lne.fr/en/software-solutions/ai-act-compliance-checklist) — French national metrology lab checklist for mapping systems to EU AI Act risk categories. `[Free]`
+- [LNE AI Act Checklist](https://www.lne.fr/en) — French national metrology lab checklist for mapping systems to EU AI Act risk categories. `[Free]`
 - [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation. `[Proprietary]`
 - [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management. `[Proprietary]`

@@ -91,7 +91,7 @@ Datasets with clear EU-compatible licensing for training and evaluation.
 - [OSCAR](https://oscar-project.org/) — Open Super-large Crawled Aggregated corpus with per-language subsets and metadata. `CC0-1.0`
 - [Common Crawl (filtered)](https://commoncrawl.org/) — Web crawl data with language-specific and quality-filtered subsets available. `CC-BY-4.0` / `Public domain`
 - [Multilingual LibriSpeech (MLS)](https://www.openslr.org/94/) — Large-scale multilingual speech corpus derived from LibriVox audiobooks in 8 European languages. `CC-BY-4.0`
-- [EUR-Lex](https://eur-lex.europa.eu/homepage.html) — Official EU law and legal documents across all EU languages, useful for legal NLP. `Public domain (EU reuse policy)`
+- [EUR-Lex](https://eur-lex.europa.eu) — Official EU law and legal documents across all EU languages, useful for legal NLP. `Public domain (EU reuse policy)`
 - [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) — 15-trillion-token English web dataset from Hugging Face, heavily filtered and deduplicated from Common Crawl. `ODC-BY-1.0`
 - [FineWeb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) — Multilingual follow-up to FineWeb covering 1,000 languages (~3T words), cleaned and quality-filtered. `ODC-BY-1.0`
 - [SwissDial](https://github.com/ynonp/SwissDial) — Speech and text dataset for regional Swiss German dialects (Alemannic). `MIT`
@@ -117,7 +117,7 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 ### Monitoring / Audit
 
 - [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act. `[Open-source]` `[Academic]`
-- [LNE AI Act Checklist](https://www.lne.fr/en/software-solutions/ai-act-compliance-checklist) — French national metrology lab checklist for mapping systems to EU AI Act risk categories. `[Free]`
+- [LNE AI Act Checklist](https://www.lne.fr/en) — French national metrology lab checklist for mapping systems to EU AI Act risk categories. `[Free]`
 - [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation. `[Proprietary]`
 - [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management. `[Proprietary]`
