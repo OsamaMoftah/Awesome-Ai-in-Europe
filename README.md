@@ -5,7 +5,6 @@
 > list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Validate Links](https://github.com/OsamaMoftah/Awesome-Ai-infro-Europe-/actions/workflows/validate-links.yml/badge.svg)](https://github.com/OsamaMoftah/Awesome-Ai-infro-Europe-/actions/workflows/validate-links.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 ## At a glance
@@ -117,7 +116,7 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 ### Monitoring / Audit
 
 - [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act. `[Open-source]` `[Academic]`
-- [LNE AI Act Checklist](https://www.lne.fr/en) — French national metrology lab checklist for mapping systems to EU AI Act risk categories. `[Free]`
+- [LNE AI Process Certification](https://www.lne.fr/en/service/certification/certification-processes-ai) — French national metrology lab certification covering design, development, evaluation, and maintenance processes aligned with EU AI Act trust requirements. `[Free]`
 - [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation. `[Proprietary]`
 - [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management. `[Proprietary]`
