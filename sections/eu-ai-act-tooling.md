@@ -1,6 +1,6 @@
 ## EU AI Act Tooling
 
-Tools that help with EU AI Act compliance workflows. This section lists resources for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
+Resources for EU AI Act compliance workflows. This section lists tools for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
 
 ### Risk Classification
 

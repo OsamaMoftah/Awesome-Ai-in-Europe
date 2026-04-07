@@ -1,6 +1,6 @@
 ## Research Labs & Institutes
 
-EU-based AI research labs and institutes.
+Resources for EU-based AI research labs and institutes.
 
 - [SDSC (Swiss Data Science Center)](https://datascience.ch/) — Switzerland. Joint ETH Zurich–EPFL initiative accelerating data science and AI adoption across research and industry. `[Academic]`
 - [INRIA](https://www.inria.fr/en) — France. National research institute for digital science and technology, with major AI research teams. `[Academic]`
@@ -16,17 +16,17 @@ EU-based AI research labs and institutes.
 - [Idiap Research Institute](https://www.idiap.ch/en) — Switzerland. Independent EPFL-affiliated institute researching speech, NLP, computer vision, and machine learning. `[Academic]`
 - [ETH AI Center](https://ai.ethz.ch/) — Switzerland. Central hub for AI research at ETH Zurich, with a strong focus on trustworthy AI systems. `[Academic]`
 - [Jožef Stefan Institute (AI Lab)](http://ailab.ijs.si/) — Slovenia. Leading AI and ML research lab covering knowledge technologies, data mining, and language resources. `[Academic]`
-- [ZHAW Centre for AI](https://www.zhaw.ch/en/engineering/institutes-centres/centre-for-artificial-intelligence/) — Switzerland. Applied AI research center at ZHAW specialising in computer vision, NLP, and industry transfer. `[Academic]`
+- [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) — Switzerland. Applied AI research center at ZHAW focused on trustworthy AI, vision, NLP, and industry transfer. `[Academic]`
 - [INSAIT](https://insait.ai/) — Bulgaria. Flagship AI research institute for South-East Europe. `[Academic]`
 - [Kyutai](https://kyutai.org/) — France. Non-profit open-science AI lab publishing open models including the Moshi real-time voice assistant. `[Academic]` `[Open-source]`
 - [CYENS Centre of Excellence](https://www.cyens.org.cy/) — Cyprus. EU-funded research center for interactive media, smart systems, and AI applications. `[Academic]`
 - [GATE Institute](https://gate-ai.eu/en/) — Bulgaria. Big Data for a Smart Society institute focusing on AI and data science. `[Academic]`
 - [LERO (The Irish Software Research Centre)](https://lero.ie/) — Ireland. National software research center with significant AI safety and ethics work. `[Academic]`
-- [AI Center of Excellence (Czechia)](https://www.ai-czechia.cz/) — Czechia. Platform connecting Czech research institutions focused on artificial intelligence. `[Academic]`
+- [AI Czechia](https://www.aiczechia.cz/) — Czechia. Open initiative connecting Czech AI research institutions and national capabilities. `[Academic]`
 - [University of Tartu (NLP Group)](https://nlp.cs.ut.ee/) — Estonia. Leading research group for Estonian NLP and multilingual language models. `[Academic]`
 - [ETF Belgrade (University of Belgrade)](https://www.etf.bg.ac.rs/) — Serbia. Leading engineering faculty with established AI, machine learning, and NLP research programs. `[Academic]`
 - [Kaunas University of Technology (KTU)](https://en.ktu.edu/) — Lithuania. Major technical university with focused AI and machine learning research in its Computer Science faculty. `[Academic]`
-- [FEIT Skopje (Ss. Cyril and Methodius University)](https://www.feit.ukim.mk/) — North Macedonia. Leading engineering faculty with AI and signal processing research. `[Academic]`
+- [FEIT Skopje (Ss. Cyril and Methodius University)](https://feit.ukim.edu.mk/en/) — North Macedonia. Leading engineering faculty with AI, signal processing, and robotics-related research. `[Academic]`
 - [University of Montenegro — Faculty of Electrical Engineering](https://www.ucg.ac.me/) — Montenegro. Primary engineering university in Montenegro with emerging AI and signal processing work. `[Academic]`
 - [INESC ID](https://www.inesc-id.pt/) — Portugal. Research institute at IST/ULisboa with strong AI, NLP, and machine learning groups. `[Academic]`
 - [INESC TEC](https://www.inesctec.pt/) — Portugal. Large applied research institute in Porto with AI, robotics, and data science groups. `[Academic]`

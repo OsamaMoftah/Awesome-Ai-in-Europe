@@ -1,6 +1,6 @@
 ## Grants & Compute
 
-Funding and compute programs available to EU-based developers and researchers.
+Resources for funding and compute programs available to EU-based developers and researchers.
 
 ### EU Grants
 

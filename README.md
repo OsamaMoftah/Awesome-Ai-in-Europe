@@ -3,8 +3,6 @@
 ![Build AI Systems in Europe](hero.png)
 
 > list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
-> 
-> 🤖 *Originally curated using a **[CrewAI](https://crewai.com/)** agentic swarm to filter out US-centric noise and verify regional hosting, licensing, and EU AI Act compliance.*
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -13,11 +11,11 @@
 
 | Section | Focus | Count |
 | --- | --- | ---: |
-| [Inference Providers](#inference-providers) | EU-hosted APIs, sovereign clouds, and managed model access | 14 |
+| [Inference Providers](#inference-providers) | EU-hosted APIs, sovereign clouds, and managed model access | 17 |
 | [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 14 |
-| [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 12 |
+| [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 14 |
 | [Grants & Compute](#grants--compute) | Funding programs and European supercomputing access | 23 |
-| [Models](#models) | Open models and model families for European languages | 48 |
+| [Models](#models) | Open models and model families for European languages | 50 |
 | [Multilingual Resources](#multilingual-resources) | Language-tech projects and Europe-wide corpora | 2 |
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
 | [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 27 |
@@ -26,12 +24,12 @@
 
 | Pick | Section | Why it stands out |
 | --- | --- | --- |
-| [Infomaniak LLM API](https://www.infomaniak.com/en/hosting/llm-api) | Inference Providers | Swiss privacy-first managed inference with a free tier and eco-certified Geneva hosting. |
+| [Infomaniak AI Services](https://www.infomaniak.com/en/hosting/ai-services) | Inference Providers | Swiss privacy-first managed inference with a free tier and Geneva hosting. |
 | [ETH AI Center](https://ai.ethz.ch/) | Research Labs & Institutes | Switzerland's flagship AI research hub with strong trustworthy-AI credentials. |
 | [JUPITER (FZJ)](https://www.fz-juelich.de/en/ias/jsc/jupiter) | Grants & Compute | Europe's first exascale system, designed for large-scale AI training and research. |
 | [Occiglot](https://occiglot.eu/) | Models | Pan-European foundation-model initiative for all 24 official EU languages. |
-| [SwissDial](https://github.com/ynonp/SwissDial) | Datasets (GDPR-Safe) | High-value Swiss German dialect dataset for speech and text research. |
-| [Swiss AI Association](https://swissai.org/) | Communities & Events | Switzerland's primary AI ecosystem body for research, business, and policy. |
+| [SwissDial](https://mtc.ethz.ch/publications/open-source/swiss-dial.html) | Datasets (GDPR-Safe) | High-value Swiss German dialect dataset for speech and text research. |
+| [Swiss AI Association](https://swissai.ch/) | Communities & Events | Switzerland's primary AI ecosystem body for research, business, and policy. |
 
 The section lists below keep each entry to one line, with tags and licensing notes to make trust, openness, and geography easy to scan at a glance.
 
@@ -60,6 +58,9 @@ The section lists below keep each entry to one line, with tags and licensing not
 - [Multilingual Resources](#multilingual-resources)
 - [Research Labs & Institutes](#research-labs--institutes)
 - [Communities & Events](#communities--events)
+- [Contributing](#contributing)
+- [Scope & Disclaimer](#scope--disclaimer)
+- [License](#license)
 
 ---
 
@@ -69,21 +70,21 @@ EU-based or EU-compliant LLM inference hosts.
 
 - [Mistral AI](https://mistral.ai/) — French AI company offering frontier LLMs with EU-hosted API endpoints. `[EU-hosted]` `[Open weights]`
 - [Aleph Alpha](https://aleph-alpha.com/) — German AI company providing sovereign, GDPR-compliant LLM inference and enterprise AI solutions. `[EU-hosted]` `[GDPR-DPA]`
-- [OVHcloud AI Endpoints](https://endpoints.ai.cloud.ovh.net/) — Managed AI inference on EU-sovereign OVHcloud infrastructure with open-source models. `[EU-hosted]` `[GDPR-DPA]`
+- [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) — Managed AI inference on EU-sovereign OVHcloud infrastructure with open-source models. `[EU-hosted]` `[GDPR-DPA]`
 - [Scaleway Generative APIs](https://www.scaleway.com/en/generative-apis/) — French cloud provider offering managed LLM inference from EU data centers. `[EU-hosted]` `[GDPR-DPA]`
 - [Deutsche Telekom Industrial AI Cloud](https://www.telekom.com/en/company/details/industrial-ai-cloud-1100158) — German sovereign AI cloud (T-Systems) for training and running models within Germany and EU regulations. `[EU-hosted]` `[GDPR-DPA]`
-- [IONOS AI Model Hub](https://cloud.ionos.com/ai/ai-model-hub) — German cloud provider offering LLM inference from EU-sovereign data centers. `[EU-hosted]` `[GDPR-DPA]`
+- [IONOS AI Model Hub](https://cloud.ionos.com/managed/ai-model-hub) — German cloud provider offering LLM inference from EU-sovereign data centers. `[EU-hosted]` `[GDPR-DPA]`
 - [Nebius AI](https://nebius.com/) — Amsterdam-headquartered AI cloud offering GPU clusters and LLM API with EU data-residency and zero-retention inference options. `[EU-hosted]` `[GDPR-DPA]` `[Free tier]`
 - [STACKIT](https://stackit.com/en/) — German sovereign cloud platform (Schwarz Group) offering scalable, GDPR-compliant AI compute and model hosting. `[EU-hosted]` `[GDPR-DPA]`
 - [Nscale](https://www.nscale.com/) — UK-based high-performance vertical GPU cloud and AI infrastructure provider. `[EU-hosted]`
 - [Verda (DataCrunch)](https://verda.com/) — Nordic "green compute" AI cloud provider offering H100 clusters powered by 100% renewable energy in Finland. `[EU-hosted]` `[GDPR-DPA]`
 - [Gcore Inference](https://gcore.com/) — Luxembourg-based edge and cloud AI inference platform with sovereign EU infrastructure and 200+ Tbps network. `[EU-hosted]`
-- [Infomaniak LLM API](https://www.infomaniak.com/en/hosting/llm-api) — Swiss privacy-first managed LLM inference with eco-certified Geneva hosting and a free tier. `[EU-hosted]` `[GDPR-DPA]` `[Free tier]`
+- [Infomaniak AI Services](https://www.infomaniak.com/en/hosting/ai-services) — Swiss privacy-first managed AI services with Geneva hosting and a developer-friendly API surface. `[EU-hosted]` `[GDPR-DPA]` `[Free tier]`
 - [Exoscale GPU Compute](https://www.exoscale.com/gpu/) — Swiss cloud provider offering A100/H100 GPU instances for model serving and AI workloads. `[EU-hosted]` `[GDPR-DPA]`
 - [DeepL API](https://www.deepl.com/pro-api) — German translation AI platform with a widely used API for multilingual products and workflows. `[EU-hosted]` `[GDPR-DPA]`
-- [Swisscom AI Services](https://www.swisscom.ch/en/business/enterprise/offer/cloud/ai-services.html) — Swiss-sovereign managed AI infrastructure and model services from Switzerland's largest telco. `[EU-hosted]` `[GDPR-DPA]`
-- [Alpine AI (SwissGPT)](https://alpineai.ch/) — Swiss-hosted enterprise LLM access platform with strong privacy positioning and multilingual support. `[EU-hosted]` `[GDPR-DPA]`
-- [LightOn](https://www.lighton.ai/) — French enterprise AI company offering managed LLM products and EU-hosted infrastructure. `[EU-hosted]`
+- [Swisscom Swiss AI Platform](https://www.swisscom.ch/en/business/enterprise/offer/platforms-applications/data-driven-business/swiss-ai-platform.html) — Swisscom's sovereign AI platform with Swiss-hosted infrastructure, managed services, and model access. `[EU-hosted]` `[GDPR-DPA]`
+- [Alpine AI (SwissGPT)](https://alpineai.swiss/) — Swiss-hosted enterprise LLM access platform with strong privacy positioning and multilingual support. `[EU-hosted]` `[GDPR-DPA]`
+- [LightOn](https://lighton.ai/) — French enterprise AI company offering managed LLM products and EU-hosted infrastructure. `[EU-hosted]`
 
 ## Datasets (GDPR-Safe)
 
@@ -98,7 +99,7 @@ Datasets with clear EU-compatible licensing for training and evaluation.
 - [EUR-Lex](https://eur-lex.europa.eu) — Official EU law and legal documents across all EU languages, useful for legal NLP. `Public domain (EU reuse policy)`
 - [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) — 15-trillion-token English web dataset from Hugging Face, heavily filtered and deduplicated from Common Crawl. `ODC-BY-1.0`
 - [FineWeb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) — Multilingual follow-up to FineWeb covering 1,000 languages (~3T words), cleaned and quality-filtered. `ODC-BY-1.0`
-- [SwissDial](https://github.com/ynonp/SwissDial) — Speech and text dataset for regional Swiss German dialects (Alemannic). `MIT`
+- [SwissDial](https://mtc.ethz.ch/publications/open-source/swiss-dial.html) — Parallel corpus of spoken Swiss German dialects with audio and High German transcripts. `Research access`
 - [Common Voice](https://commonvoice.mozilla.org/en/datasets) — Crowdsourced voice dataset covering 50+ European languages including minority languages. `CC0`
 - [Europeana Data](https://pro.europeana.eu/data) — Access to millions of digitized cultural heritage items from European institutions, useful for retrieval and multimodal research. `Mixed`
 - [Portuguese Corpus (AC/DC)](https://www.linguateca.pt/) — Large Portuguese text corpus for NLP research. `Academic`
@@ -185,7 +186,7 @@ Open model releases and model families useful for researchers and builders in Eu
 
 ### Swiss & Alpine
 
-- [SwissBERT](https://huggingface.co/uzh-rpg/swissbert) — Multilingual BERT model for Switzerland, trained on Swiss news articles in four languages. `[Open weights]` `MIT`
+- [SwissBERT](https://huggingface.co/ZurichNLP/swissbert) — Multilingual encoder for Switzerland's national languages, trained on large-scale Swiss news corpora. `[Open weights]` `CC-BY-NC-4.0`
 - [Meditron (EPFL)](https://huggingface.co/epfl-llm/meditron-70b) — Open medical LLM suite adapted from Llama 2 by EPFL for clinical and biomedical use cases. `[Open weights]` `Llama 2 Community License`
 
 ### Germanic (DE, NL, SV, DA, NO, IS, FO)
@@ -195,16 +196,16 @@ Open model releases and model families useful for researchers and builders in Eu
 - [KB-BERT](https://huggingface.co/KB/bert-base-swedish-cased) — Swedish BERT model pre-trained by the National Library of Sweden. `[Open weights]` `CC-BY-4.0`
 - [LeoLM](https://huggingface.co/LeoLM) — German-optimised LLMs fine-tuned from Llama 2 and Mistral by Hessian AI and LAION, available in multiple sizes. `[Open weights]` `Apache 2.0`
 - [Danish BERT](https://huggingface.co/Maltehb/danish-bert-botxo) — Danish BERT model trained on the Danish Gigaword corpus. `[Open weights]` `CC-BY-4.0`
-- [ScandiBERT](https://huggingface.co/alexandrainst/scandibert-base-balanced) — North Germanic language model covering Danish, Norwegian, Swedish, Icelandic, and Faroese. `[Open weights]` `Apache 2.0`
+- [ScandiBERT](https://huggingface.co/vesteinn/ScandiBERT) — North Germanic language model covering Danish, Norwegian, Swedish, Icelandic, and Faroese. `[Open weights]` `AGPL-3.0`
 - [GPT-SW3](https://huggingface.co/AI-Sweden-Models/gpt-sw3-20b-instruct) — Large-scale generative LLM for Nordic languages developed by AI Sweden. `[Open weights]` `Apache 2.0`
 - [Poro](https://huggingface.co/LumiOpen/Poro-34B) — Multilingual LLM for Finnish and English developed through the LumiOpen collaboration. `[Open weights]` `Apache 2.0`
-- [NorLM](https://github.com/ltgoslo/NorLM) — Large language models for Norwegian Bokmål and Nynorsk from the University of Oslo. `[Open weights]` `CC-BY-SA-4.0`
+- [NorLM / NORA.LLM](https://huggingface.co/norallm) — Community collection of Norwegian language models coordinated by the University of Oslo ecosystem. `[Open weights]`
 
 ### Romance (FR, ES, IT, PT, RO, CA)
 
 - [CamemBERT](https://huggingface.co/camembert-base) — French language model based on RoBERTa, trained on French subcorpus of OSCAR. `[Open weights]` `MIT`
 - [FlauBERT](https://huggingface.co/flaubert/flaubert_base_cased) — French BERT model trained on a diverse French corpus. `[Open weights]` `MIT`
-- [Projecte AINA / MATCHA](https://huggingface.co/projecte-aina/FLAN-catalan-llama-7b) — High-performance Catalan LLM from the Barcelona Supercomputing Center. `[Open weights]` `Apache 2.0`
+- [Projecte AINA (Catalan Models)](https://huggingface.co/projecte-aina) — Catalan model collection from the Barcelona Supercomputing Center and Projecte AINA ecosystem. `[Open weights]`
 - [MarIA](https://huggingface.co/PlanTL-GOB-ES/roberta-base-bne) — Massive Spanish language model from Spain's National Library and PlanTL. `[Open weights]` `Apache 2.0`
 - [BERTinho](https://huggingface.co/neuralmind/bert-base-portuguese-cased) — High-quality Portuguese BERT model used as a strong baseline for PT NLP. `[Open weights]` `Apache 2.0`
 - [CroissantLLM](https://huggingface.co/croissantllm) — Truly bilingual French-English LLM with balanced pretraining and open weights. `[Open weights]`
@@ -215,33 +216,33 @@ Open model releases and model families useful for researchers and builders in Eu
 ### Slavic (PL, CS, SK, SL, HR, BG)
 
 - [Polish RoBERTa](https://huggingface.co/sdadas/polish-roberta-base-v2) — RoBERTa model trained on a large Polish corpus. `[Open weights]`
-- [Bielik](https://huggingface.co/speakleash/Bielik-11B-v2.3) — Polish language model based on the Mistral architecture from SpeakLeash. `[Open weights]` `Apache 2.0`
+- [Bielik](https://huggingface.co/speakleash/Bielik-11B-v3.0-Instruct) — Polish-centered multilingual LLM from SpeakLeash, trained on large-scale European corpora. `[Open weights]` `Apache 2.0`
 - [RobeCzech](https://huggingface.co/ufal/robeczech-base) — Monolingual Czech RoBERTa model developed by Charles University. `[Open weights]` `CC-BY-NC-SA-4.0`
 - [SlovakBERT](https://huggingface.co/gerulata/slovakbert) — Specialized RoBERTa-based model for the Slovak language. `[Open weights]` `Apache 2.0`
 - [SloBERTa](https://huggingface.co/EMBEDDIA/sloberta) — Slovenian language model trained by the EMBEDDIA project. `[Open weights]` `MIT`
-- [BCMS-BERT](https://huggingface.co/classla/bcms-bert) — BERT model for Serbian and related South Slavic languages. `[Open weights]` `Apache 2.0`
+- [BERTic](https://huggingface.co/classla/bcms-bertic) — Transformer language model for Bosnian, Croatian, Montenegrin, and Serbian. `[Open weights]` `Apache 2.0`
 
 ### Uralic & Baltic (FI, ET, HU, LV, LT)
 
 - [FinBERT](https://huggingface.co/TurkuNLP/bert-base-finnish-cased-v1) — Finnish BERT model from the TurkuNLP group. `[Open weights]` `Apache 2.0`
 - [EstBERT](https://huggingface.co/tartuNLP/EstBERT) — Monolingual BERT model for Estonian by University of Tartu researchers. `[Open weights]` `Apache 2.0`
-- [Latvian BERT](https://huggingface.co/Latvian-NLP/bert-base-latvian-cased) — BERT model pre-trained on Latvian web and news corpora. `[Open weights]` `Apache 2.0`
-- [Lithuanian BERT](https://huggingface.co/lt-nlp/lt-bert) — BERT model for Lithuanian language. `[Open weights]` `Apache 2.0`
+- [Latvian BERT](https://huggingface.co/AiLab-IMCS-UL/lvbert) — BERT base model pre-trained on Latvian corpora from the University of Latvia ecosystem. `[Open weights]` `Apache 2.0`
+- [Lithuanian BERT](https://huggingface.co/HPLT/hplt_bert_base_lt) — Monolingual Lithuanian BERT released through the High Performance Language Technologies project. `[Open weights]` `Apache 2.0`
 
 ### Smaller & Minority Languages
 
 - [IceBERT](https://huggingface.co/mideind/icebert) — RoBERTa-based language model for Icelandic, developed by Miðeind. `[Open weights]` `Apache 2.0`
-- [LuxBERT](https://huggingface.co/j-hartmann/luxembourgish-bert) — Monolingual BERT model for Luxembourgish. `[Open weights]` `MIT`
-- [Maltese BERT](https://huggingface.co/MLRS/bert-base-maltese-cased) — BERT model specifically pre-trained on Maltese language text. `[Open weights]` `Apache 2.0`
+- [LuxemBERT](https://huggingface.co/lothritz/LuxemBERT) — Monolingual BERT model for Luxembourgish. `[Open weights]`
+- [BERTu](https://huggingface.co/MLRS/BERTu) — Monolingual BERT model trained on Korpus Malti for Maltese NLP tasks. `[Open weights]` `CC-BY-NC-SA-4.0`
 - [Faroese BERT](https://huggingface.co/egilron/faroese-roberta-base) — RoBERTa-based model trained on Faroese language data. `[Open weights]` `MIT`
-- [Welsh BERT (Techiaith)](https://huggingface.co/techiaith/roberta-base-welsh) — RoBERTa model for Welsh developed by the Techiaith team at Bangor University. `[Open weights]` `Apache 2.0`
+- [Techiaith Welsh Models](https://huggingface.co/techiaith) — Active collection of Welsh language models from Bangor University's Language Technologies Unit. `[Open weights]`
 
 ### Hellenic & Other
 
 - [Greek BERT](https://huggingface.co/nlpaueb/bert-base-greek-uncased-v1) — BERT model specifically for Modern Greek by AUEB NLP Group. `[Open weights]` `Apache 2.0`
 - [CeltBERT](https://huggingface.co/Geotrend/bert-base-celtic-langs) — BERT models for Celtic languages including Breton, Irish, Welsh, Manx, and Scottish Gaelic. `[Open weights]` `MIT` / `Apache 2.0`
 - [Basque BERT](https://huggingface.co/ixa-ehu/berteus-base-cased) — High-quality transformer model for the Basque language (Euskara). `[Open weights]` `Apache 2.0`
-- [Basque (Euskara) MT Models](https://huggingface.co/euskalnlp) — Machine translation models for Basque language. `[Open weights]` `Apache 2.0`
+- [HiTZ Basque MT Models](https://huggingface.co/HiTZ/mt-hitz-eu-es) — Open machine translation models for Basque developed by the HiTZ Center and IXA. `[Open weights]` `Apache 2.0`
 
 ### Multimodal & Domain-Specific
 
@@ -287,17 +288,17 @@ EU-based AI research labs and institutes.
 - [Idiap Research Institute](https://www.idiap.ch/en) — Switzerland. Independent EPFL-affiliated institute researching speech, NLP, computer vision, and machine learning. `[Academic]`
 - [ETH AI Center](https://ai.ethz.ch/) — Switzerland. Central hub for AI research at ETH Zurich, with a strong focus on trustworthy AI systems. `[Academic]`
 - [Jožef Stefan Institute (AI Lab)](http://ailab.ijs.si/) — Slovenia. Leading AI and ML research lab covering knowledge technologies, data mining, and language resources. `[Academic]`
-- [ZHAW Centre for AI](https://www.zhaw.ch/en/engineering/institutes-centres/centre-for-artificial-intelligence/) — Switzerland. Applied AI research center at ZHAW specialising in computer vision, NLP, and industry transfer. `[Academic]`
+- [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) — Switzerland. Applied AI research center at ZHAW focused on trustworthy AI, vision, NLP, and industry transfer. `[Academic]`
 - [INSAIT](https://insait.ai/) — Bulgaria. Flagship AI research institute for South-East Europe. `[Academic]`
 - [Kyutai](https://kyutai.org/) — France. Non-profit open-science AI lab publishing open models including the Moshi real-time voice assistant. `[Academic]` `[Open-source]`
 - [CYENS Centre of Excellence](https://www.cyens.org.cy/) — Cyprus. EU-funded research center for interactive media, smart systems, and AI applications. `[Academic]`
 - [GATE Institute](https://gate-ai.eu/en/) — Bulgaria. Big Data for a Smart Society institute focusing on AI and data science. `[Academic]`
 - [LERO (The Irish Software Research Centre)](https://lero.ie/) — Ireland. National software research center with significant AI safety and ethics work. `[Academic]`
-- [AI Center of Excellence (Czechia)](https://www.ai-czechia.cz/) — Czechia. Platform connecting Czech research institutions focused on artificial intelligence. `[Academic]`
+- [AI Czechia](https://www.aiczechia.cz/) — Czechia. Open initiative connecting Czech AI research institutions and national capabilities. `[Academic]`
 - [University of Tartu (NLP Group)](https://nlp.cs.ut.ee/) — Estonia. Leading research group for Estonian NLP and multilingual language models. `[Academic]`
 - [ETF Belgrade (University of Belgrade)](https://www.etf.bg.ac.rs/) — Serbia. Leading engineering faculty with established AI, machine learning, and NLP research programs. `[Academic]`
 - [Kaunas University of Technology (KTU)](https://en.ktu.edu/) — Lithuania. Major technical university with focused AI and machine learning research in its Computer Science faculty. `[Academic]`
-- [FEIT Skopje (Ss. Cyril and Methodius University)](https://www.feit.ukim.mk/) — North Macedonia. Leading engineering faculty with AI and signal processing research. `[Academic]`
+- [FEIT Skopje (Ss. Cyril and Methodius University)](https://feit.ukim.edu.mk/en/) — North Macedonia. Leading engineering faculty with AI, signal processing, and robotics-related research. `[Academic]`
 - [University of Montenegro — Faculty of Electrical Engineering](https://www.ucg.ac.me/) — Montenegro. Primary engineering university in Montenegro with emerging AI and signal processing work. `[Academic]`
 - [INESC ID](https://www.inesc-id.pt/) — Portugal. Research institute at IST/ULisboa with strong AI, NLP, and machine learning groups. `[Academic]`
 - [INESC TEC](https://www.inesctec.pt/) — Portugal. Large applied research institute in Porto with AI, robotics, and data science groups. `[Academic]`
@@ -331,13 +332,13 @@ Communities, forums, and events for EU AI builders.
 
 ### National Associations
 
-- [Swiss AI Association](https://swissai.org/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers.
+- [Swiss AI Association](https://swissai.ch/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers.
 - [Swiss NLP](https://swissnlp.org/) — Association connecting NLP researchers and practitioners across Switzerland.
 - [AI Estonia (AIRE)](https://aire-edih.eu/en/) — Estonian Digital Innovation Hub for AI, supporting SMEs and industry adoption.
-- [Serbian AI Society](https://serbia-ai.rs/) — Professional AI society in Serbia promoting research and industry collaboration.
+- [Serbian AI Society](https://serbianaisociety.org/) — Professional AI society in Serbia promoting research, collaboration, and ecosystem building.
 - [Croatian AI Association](https://croai.org/) — Croatian AI community connecting researchers and industry.
-- [AI Portugal](https://ai-portugal.org/) — National AI association in Portugal.
-- [Lithuanian AI Association](https://lietuvosai.lt/) — National AI association in Lithuania.
+- [APPIA](https://www.appia.pt/) — Portuguese Association for Artificial Intelligence, connecting researchers and practitioners across Portugal.
+- [Lithuanian AI Association](https://lithuania.ai/en/about) — National AI association connecting Lithuania's AI ecosystem across research, business, and policy.
 - [Malta AI Association](https://malta-ai.org/) — AI community in Malta.
 - [Cyprus AI Initiative](https://cyprusai.org/) — AI community in Cyprus.
 - [Slovakia.ai](https://slovakia.ai/en/) — Association for the development and application of artificial intelligence in Slovakia.

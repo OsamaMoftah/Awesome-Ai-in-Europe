@@ -1,6 +1,6 @@
 ## Multilingual Resources
 
-Resources for non-English European languages. Dedicated model releases now live in the [Models](../README.md#models) section.
+Resources for non-English European languages. Dedicated model releases now live in the [Models](#models) section.
 
 ### Language Technology Projects
 
