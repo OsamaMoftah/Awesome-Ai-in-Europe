@@ -1,8 +1,8 @@
-# Awesome Ai-infra Europe+
+# Awesome Ai in Europe
 
 ![Build AI Systems in Europe](hero.png)
 
-> list of resources for building AI systems in Europe (the **+** for the UK and Switzerland) — infrastructure, models, datasets, compliance tooling, funding, and more.
+> List of resources for building AI systems in Europe: infrastructure, models, datasets, compliance tooling, funding, and research labs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
