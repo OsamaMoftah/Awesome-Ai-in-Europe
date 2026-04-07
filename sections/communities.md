@@ -1,6 +1,6 @@
 ## Communities & Events
 
-Communities, forums, and events for EU AI builders.
+Resources for communities, forums, and events for EU AI builders.
 
 ### Online Communities
 
@@ -24,13 +24,13 @@ Communities, forums, and events for EU AI builders.
 
 ### National Associations
 
-- [Swiss AI Association](https://swissai.org/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers.
+- [Swiss AI Association](https://swissai.ch/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers.
 - [Swiss NLP](https://swissnlp.org/) — Association connecting NLP researchers and practitioners across Switzerland.
 - [AI Estonia (AIRE)](https://aire-edih.eu/en/) — Estonian Digital Innovation Hub for AI, supporting SMEs and industry adoption.
-- [Serbian AI Society](https://serbia-ai.rs/) — Professional AI society in Serbia promoting research and industry collaboration.
+- [Serbian AI Society](https://serbianaisociety.org/) — Professional AI society in Serbia promoting research, collaboration, and ecosystem building.
 - [Croatian AI Association](https://croai.org/) — Croatian AI community connecting researchers and industry.
-- [AI Portugal](https://ai-portugal.org/) — National AI association in Portugal.
-- [Lithuanian AI Association](https://lietuvosai.lt/) — National AI association in Lithuania.
+- [APPIA](https://www.appia.pt/) — Portuguese Association for Artificial Intelligence, connecting researchers and practitioners across Portugal.
+- [Lithuanian AI Association](https://lithuania.ai/en/about) — National AI association connecting Lithuania's AI ecosystem across research, business, and policy.
 - [Malta AI Association](https://malta-ai.org/) — AI community in Malta.
 - [Cyprus AI Initiative](https://cyprusai.org/) — AI community in Cyprus.
 - [Slovakia.ai](https://slovakia.ai/en/) — Association for the development and application of artificial intelligence in Slovakia.
