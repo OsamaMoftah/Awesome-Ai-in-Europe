@@ -1,16 +1,10 @@
 ## EU AI Act Tooling
 
-Resources for EU AI Act compliance workflows. This section lists tools for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
+Resources for EU AI Act compliance workflows built by European organizations. This section lists tools for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
 
 ### Risk Classification
 
-- [AI Act Explorer](https://artificialintelligenceact.eu/) — Interactive tool for browsing and understanding the EU AI Act text, risk categories, and obligations. `[Free]`
-- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — Open-source checklist tool for mapping AI systems to EU AI Act risk categories. `[Open-source]`
-
-### Documentation / Model Cards
-
-- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) — Google's toolkit for generating model cards that help meet AI Act transparency requirements. `[Open-source]` `Apache 2.0`
-- [Hugging Face Model Cards](https://huggingface.co/docs/hub/model-cards) — Standardized model documentation format widely adopted across the EU open-source AI ecosystem. `[Free]`
+- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — German open-source checklist tool for mapping AI systems to EU AI Act risk categories. `[Open-source]`
 
 ### Monitoring / Audit
 
@@ -23,7 +17,6 @@ Resources for EU AI Act compliance workflows. This section lists tools for under
 
 ### Conformity Assessment Prep
 
-- [FRIA Templates](https://github.com/ai-act-fria) — Fundamental Rights Impact Assessment templates for high-risk AI systems under the EU AI Act. `[Open-source]`
 - [ALTAI Self-Assessment](https://altai.insight-centre.org/) — Assessment List for Trustworthy AI from the EU High-Level Expert Group, a tool for self-assessing AI trustworthiness. `[Free]`
 
 ### Privacy-Preserving Infrastructure

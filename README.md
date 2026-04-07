@@ -12,13 +12,13 @@
 | Section | Focus | Count |
 | --- | --- | ---: |
 | [Inference Providers](#inference-providers) | EU-hosted APIs, sovereign clouds, and managed model access | 17 |
-| [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 14 |
-| [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 14 |
+| [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 10 |
+| [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 10 |
 | [Grants & Compute](#grants--compute) | Funding programs and European supercomputing access | 23 |
-| [Models](#models) | Open models and model families for European languages | 50 |
+| [Models](#models) | Open models and model families for European languages | 46 |
 | [Multilingual Resources](#multilingual-resources) | Language-tech projects and Europe-wide corpora | 2 |
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
-| [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 27 |
+| [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
 
 ## Featured Picks
 
@@ -90,34 +90,24 @@ EU-based or EU-compliant LLM inference hosts.
 
 Datasets with clear EU-compatible licensing for training and evaluation.
 
-- [mC4](https://huggingface.co/datasets/mc4) — Multilingual colossal cleaned Common Crawl corpus covering 101 languages. `ODC-BY-1.0`
-- [OPUS Corpora](https://opus.nlpl.eu/) — Collection of freely available parallel corpora for machine translation across European languages. `Various open licenses`
+- [OPUS Corpora](https://opus.nlpl.eu/) — University of Helsinki-led collection of freely available parallel corpora for machine translation across European languages. `Various open licenses`
 - [EuroParl](https://www.statmt.org/europarl/) — Parallel corpus extracted from European Parliament proceedings in 21 EU languages. `Free for research`
-- [OSCAR](https://oscar-project.org/) — Open Super-large Crawled Aggregated corpus with per-language subsets and metadata. `CC0-1.0`
-- [Common Crawl (filtered)](https://commoncrawl.org/) — Web crawl data with language-specific and quality-filtered subsets available. `CC-BY-4.0` / `Public domain`
-- [Multilingual LibriSpeech (MLS)](https://www.openslr.org/94/) — Large-scale multilingual speech corpus derived from LibriVox audiobooks in 8 European languages. `CC-BY-4.0`
+- [OSCAR](https://oscar-project.org/) — Inria- and DFKI-backed open multilingual web corpus with per-language subsets and metadata. `CC0-1.0`
+- [SwissDial](https://mtc.ethz.ch/publications/open-source/swiss-dial.html) — ETH Zurich corpus of spoken Swiss German dialects with audio and High German transcripts. `Research access`
 - [EUR-Lex](https://eur-lex.europa.eu) — Official EU law and legal documents across all EU languages, useful for legal NLP. `Public domain (EU reuse policy)`
-- [FineWeb](https://huggingface.co/datasets/HuggingFaceFW/fineweb) — 15-trillion-token English web dataset from Hugging Face, heavily filtered and deduplicated from Common Crawl. `ODC-BY-1.0`
-- [FineWeb-2](https://huggingface.co/datasets/HuggingFaceFW/fineweb-2) — Multilingual follow-up to FineWeb covering 1,000 languages (~3T words), cleaned and quality-filtered. `ODC-BY-1.0`
-- [SwissDial](https://mtc.ethz.ch/publications/open-source/swiss-dial.html) — Parallel corpus of spoken Swiss German dialects with audio and High German transcripts. `Research access`
-- [Common Voice](https://commonvoice.mozilla.org/en/datasets) — Crowdsourced voice dataset covering 50+ European languages including minority languages. `CC0`
-- [Europeana Data](https://pro.europeana.eu/data) — Access to millions of digitized cultural heritage items from European institutions, useful for retrieval and multimodal research. `Mixed`
-- [Portuguese Corpus (AC/DC)](https://www.linguateca.pt/) — Large Portuguese text corpus for NLP research. `Academic`
-- [Nordic Dialect Corpus](https://www.tekstlab.uio.no/norsk/dialekt/) — Collection of Nordic dialect recordings and transcriptions. `Academic`
+- [JRC-Acquis](https://joint-research-centre.ec.europa.eu/language-technology-resources/jrc-acquis_en) — European Commission parallel legal corpus covering the EU acquis in 22 languages. `Public domain`
+- [Leipzig Corpora Collection](https://corpora.uni-leipzig.de/en) — German university corpus collection with comparable monolingual resources across many European languages. `Academic`
+- [Europeana Data](https://pro.europeana.eu/data) — European cultural-heritage data from museums, libraries, and archives across the continent, useful for retrieval and multimodal research. `Mixed`
+- [Portuguese Corpus (AC/DC)](https://www.linguateca.pt/) — Large Portuguese text corpus for NLP research from the Linguateca ecosystem. `Academic`
+- [Nordic Dialect Corpus](https://www.tekstlab.uio.no/norsk/dialekt/) — University of Oslo collection of Nordic dialect recordings and transcriptions. `Academic`
 
 ## EU AI Act Tooling
 
-Tools that help with EU AI Act compliance workflows. This section lists resources for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
+Resources for EU AI Act compliance workflows built by European organizations. This section lists tools for understanding and preparing for EU AI Act requirements — it does not constitute legal advice (verify current enforcement schedule before acting).
 
 ### Risk Classification
 
-- [AI Act Explorer](https://artificialintelligenceact.eu/) — Interactive tool for browsing and understanding the EU AI Act text, risk categories, and obligations. `[Free]`
-- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — Open-source checklist tool for mapping AI systems to EU AI Act risk categories. `[Open-source]`
-
-### Documentation / Model Cards
-
-- [Model Card Toolkit](https://github.com/tensorflow/model-card-toolkit) — Google's toolkit for generating model cards that help meet AI Act transparency requirements. `[Open-source]` `Apache 2.0`
-- [Hugging Face Model Cards](https://huggingface.co/docs/hub/model-cards) — Standardized model documentation format widely adopted across the EU open-source AI ecosystem. `[Free]`
+- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — German open-source checklist tool for mapping AI systems to EU AI Act risk categories. `[Open-source]`
 
 ### Monitoring / Audit
 
@@ -130,7 +120,6 @@ Tools that help with EU AI Act compliance workflows. This section lists resource
 
 ### Conformity Assessment Prep
 
-- [FRIA Templates](https://github.com/ai-act-fria) — Fundamental Rights Impact Assessment templates for high-risk AI systems under the EU AI Act. `[Open-source]`
 - [ALTAI Self-Assessment](https://altai.insight-centre.org/) — Assessment List for Trustworthy AI from the EU High-Level Expert Group, a tool for self-assessing AI trustworthiness. `[Free]`
 
 ### Privacy-Preserving Infrastructure
@@ -207,10 +196,9 @@ Open model releases and model families useful for researchers and builders in Eu
 - [FlauBERT](https://huggingface.co/flaubert/flaubert_base_cased) — French BERT model trained on a diverse French corpus. `[Open weights]` `MIT`
 - [Projecte AINA (Catalan Models)](https://huggingface.co/projecte-aina) — Catalan model collection from the Barcelona Supercomputing Center and Projecte AINA ecosystem. `[Open weights]`
 - [MarIA](https://huggingface.co/PlanTL-GOB-ES/roberta-base-bne) — Massive Spanish language model from Spain's National Library and PlanTL. `[Open weights]` `Apache 2.0`
-- [BERTinho](https://huggingface.co/neuralmind/bert-base-portuguese-cased) — High-quality Portuguese BERT model used as a strong baseline for PT NLP. `[Open weights]` `Apache 2.0`
-- [CroissantLLM](https://huggingface.co/croissantllm) — Truly bilingual French-English LLM with balanced pretraining and open weights. `[Open weights]`
-- [UmBERTo](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1) — Italian RoBERTa-based model trained on a large-scale web corpus. `[Open weights]` `Apache 2.0`
-- [Romanian BERT](https://huggingface.co/dumitrescustefan/bert-base-romanian-cased-v1) — BERT model pre-trained on a large Romanian corpus. `[Open weights]` `MIT`
+- [CroissantLLM](https://huggingface.co/croissantllm) — French-English LLM from a European research team, with balanced pretraining and open weights. `[Open weights]`
+- [UmBERTo](https://huggingface.co/Musixmatch/umberto-commoncrawl-cased-v1) — Italian RoBERTa-based model from Musixmatch in Italy, trained on a large-scale web corpus. `[Open weights]` `Apache 2.0`
+- [Romanian BERT](https://huggingface.co/dumitrescustefan/bert-base-romanian-cased-v1) — Romanian BERT model pre-trained on a large Romanian corpus. `[Open weights]` `MIT`
 - [TowerLLM](https://huggingface.co/Unbabel/TowerBase-7B-v0.1) — Translation-specialized LLM for Portuguese, English, German, French, and more. `[Open weights]` `CC-BY-NC-4.0`
 
 ### Slavic (PL, CS, SK, SL, HR, BG)
@@ -249,16 +237,13 @@ Open model releases and model families useful for researchers and builders in Eu
 - [FLUX (Black Forest Labs)](https://bfl.ai/) — Open-weight frontier image-generation model family from Germany, delivering state-of-the-art visual intelligence. `[Open weights]`
 - [H Company](https://www.hcompany.ai/) — French startup building foundational action models (World Models) for autonomous, multi-step reasoning and software execution.
 - [Bioptimus (H-optimus)](https://huggingface.co/bioptimus/H-optimus-0) — Open-source foundation model for pathology trained on millions of images by a French AI lab. `[Open weights]` `Apache 2.0`
-- [Poolside](https://poolside.ai/) — Foundation models for software engineering and coding, trained on execution-based reinforcement learning.
 
 ### Multilingual / Cross-lingual
 
-- [mBERT](https://huggingface.co/google-bert/bert-base-multilingual-cased) — Google's multilingual BERT covering 104 languages. `[Open weights]` `Apache 2.0`
-- [XLM-R](https://huggingface.co/FacebookAI/xlm-roberta-base) — Meta's cross-lingual language model trained on 100 languages. `[Open weights]` `MIT`
-- [LaBSE](https://huggingface.co/sentence-transformers/LaBSE) — Multilingual sentence embedding model that maps 109 languages into a shared vector space for cross-lingual search and retrieval. `[Open weights]` `Apache 2.0`
-- [Helsinki-NLP / OPUS-MT](https://huggingface.co/Helsinki-NLP) — Over 1,000 open neural machine translation models for European language pairs. `[Open weights]` `Apache 2.0`
-- [EuroLLM](https://huggingface.co/utter-project) — Multilingual LLM initiative focused on European languages as part of the UTTER project. `[Open weights]`
-- [EuroBERT](https://huggingface.co/EuroBERT) — Multilingual encoder for 15 European languages, positioned as a stronger alternative to XLM-R. `[Open weights]` `Apache 2.0`
+- [Helsinki-NLP / OPUS-MT](https://huggingface.co/Helsinki-NLP) — University of Helsinki collection of open neural machine translation models for European language pairs. `[Open weights]` `Apache 2.0`
+- [EuroLLM](https://huggingface.co/utter-project) — European multilingual LLM initiative for EU languages as part of the UTTER project. `[Open weights]`
+- [EuroBERT](https://huggingface.co/EuroBERT) — Pan-European multilingual encoder for 15 European languages. `[Open weights]` `Apache 2.0`
+- [OpenEuroLLM](https://openeurollm.eu/) — EU-funded pan-European family of open language models for all official EU languages. `[Open weights]`
 - [Occiglot](https://occiglot.eu/) — Pan-European initiative building open foundation models for all 24 official EU languages. `[Open weights]` `Apache 2.0`
 
 ## Multilingual Resources
@@ -313,22 +298,15 @@ Communities, forums, and events for EU AI builders.
 ### Online Communities
 
 - [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, strong European contributor base.
-- [EleutherAI](https://www.eleuther.ai/) — Open-source AI research collective with global and EU-based members working on open language models.
-- [Hugging Face Community](https://discuss.huggingface.co/) — Forums and Discord for the Hugging Face ecosystem, home to many EU-based researchers and builders.
-- [r/LocalLLaMA](https://www.reddit.com/r/LocalLLaMA/) — Reddit community focused on running LLMs locally, with frequent EU-specific infrastructure discussions.
 
 ### Conferences (EU-based)
 
-- [ICLR](https://iclr.cc/) — International Conference on Learning Representations, frequently held in European cities.
-- [NeurIPS](https://neurips.cc/) — Top ML conference with European workshops and satellite events.
 - [ECML-PKDD](https://ecmlpkdd.org/) — European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases.
 - [AI4EU Summit](https://www.ai4europe.eu/) — Annual conference of the EU-funded AI-on-Demand Platform bringing together European AI stakeholders.
 
 ### Newsletters & Media
 
-- [ML Street Talk](https://www.youtube.com/@MachineLearningStreetTalk) — AI research discussion channel hosted by EU-based researchers including Dr. Tim Scarfe.
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — Swiss-based AI researcher producing in-depth ML paper reviews and discussions.
-- [Import AI](https://jack-clark.net/) — Weekly newsletter covering AI policy and research, with regular EU regulatory coverage.
 
 ### National Associations
 
