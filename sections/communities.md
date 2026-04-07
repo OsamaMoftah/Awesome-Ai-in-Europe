@@ -4,7 +4,7 @@ Resources for communities, forums, and events for EU AI builders.
 
 ### Online Communities
 
-- [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, strong European contributor base.
+- [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, with a strong European contributor base.
 
 ### Conferences (EU-based)
 

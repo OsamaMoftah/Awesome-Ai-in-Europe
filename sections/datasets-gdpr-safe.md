@@ -2,8 +2,8 @@
 
 Resources for licensed corpora, speech, and legal data with clear EU-compatible reuse terms.
 
-- [OPUS Corpora](https://opus.nlpl.eu/) — University of Helsinki-led collection of freely available parallel corpora for machine translation across European languages. `Various open licenses`
-- [EuroParl](https://www.statmt.org/europarl/) — Parallel corpus extracted from European Parliament proceedings in 21 EU languages. `Free for research`
+- [OPUS Corpora](https://opus.nlpl.eu/) — University of Helsinki-led collection of freely available parallel corpora for European machine translation. `Various open licenses`
+- [EuroParl](https://www.statmt.org/europarl/) — Landmark parallel corpus from European Parliament proceedings in 21 EU languages. `Free for research`
 - [OSCAR](https://oscar-project.org/) — Inria- and DFKI-backed open multilingual web corpus with per-language subsets and metadata. `CC0-1.0`
 - [SwissDial](https://mtc.ethz.ch/publications/open-source/swiss-dial.html) — ETH Zurich corpus of spoken Swiss German dialects with audio and High German transcripts. `Research access`
 - [EUR-Lex](https://eur-lex.europa.eu) — Official EU law and legal documents across all EU languages, useful for legal NLP. `Public domain (EU reuse policy)`

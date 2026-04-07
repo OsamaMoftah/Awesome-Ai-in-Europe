@@ -4,16 +4,16 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 
 ### Risk Classification
 
-- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — German open-source checklist tool for mapping AI systems to EU AI Act risk categories. `[Open-source]`
+- [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — German open-source checklist tool from AlgorithmWatch for mapping AI systems to EU AI Act risk categories. `[Open-source]`
 
 ### Monitoring / Audit
 
-- [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act. `[Open-source]` `[Academic]`
+- [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act, built for the Swiss research ecosystem. `[Open-source]` `[Academic]`
 - [LNE AI Process Certification](https://www.lne.fr/en/service/certification/certification-processes-ai) — French national metrology lab certification covering design, development, evaluation, and maintenance processes aligned with EU AI Act trust requirements. `[Free]`
 - [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation. `[Proprietary]`
 - [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management. `[Proprietary]`
-- [Holistic AI](https://www.holisticai.com/) — AI governance, risk, and compliance platform focused on auditing and transparency. `[Proprietary]`
+- [Holistic AI](https://www.holisticai.com/) — AI governance, risk, and compliance platform with a strong auditing and transparency focus. `[Proprietary]`
 
 ### Conformity Assessment Prep
 

@@ -4,8 +4,8 @@ Resources for open model releases and model families useful for researchers and 
 
 ### Swiss & Alpine
 
-- [SwissBERT](https://huggingface.co/ZurichNLP/swissbert) — Multilingual encoder for Switzerland's national languages, trained on large-scale Swiss news corpora. `[Open weights]` `CC-BY-NC-4.0`
-- [Meditron (EPFL)](https://huggingface.co/epfl-llm/meditron-70b) — Open medical LLM suite adapted from Llama 2 by EPFL for clinical and biomedical use cases. `[Open weights]` `Llama 2 Community License`
+- [SwissBERT](https://huggingface.co/ZurichNLP/swissbert) — ZurichNLP multilingual encoder for Switzerland's national languages, trained on large-scale Swiss news corpora. `[Open weights]` `CC-BY-NC-4.0`
+- [Meditron (EPFL)](https://huggingface.co/epfl-llm/meditron-70b) — EPFL open medical LLM suite adapted from Llama 2 for clinical and biomedical use cases. `[Open weights]` `Llama 2 Community License`
 
 ### Germanic (DE, NL, SV, DA, NO, IS, FO)
 
