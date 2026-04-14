@@ -7,6 +7,7 @@ Resources for EU-based AI research labs and institutes.
 - [DFKI](https://www.dfki.de/en/web) — Germany. German Research Center for Artificial Intelligence, one of the world's largest AI research centers and a foundational institution in the European AI story. `[Academic]`
 - [CWI](https://www.cwi.nl/) — Netherlands. National research institute for mathematics and computer science, with an ML research group and long-standing influence in European computing research. `[Academic]`
 - [Alan Turing Institute](https://www.turing.ac.uk/) — United Kingdom. National institute for data science and AI, named after Alan Turing and central to the UK's academic AI ecosystem. `[Academic]`
+- [Google DeepMind](https://deepmind.google/) — United Kingdom. Europe's most influential corporate AI lab, with London remaining a major center for frontier research spanning reinforcement learning, multimodal systems, and scientific discovery.
 - [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) — Germany. Leading research on perception, learning, and intelligent systems, with global visibility across robotics, vision, and machine learning. `[Academic]`
 - [ELLIS Institutes](https://ellis.eu/) — Pan-European. Network of AI research labs across Europe focused on machine learning excellence, helping Europe compete on talent and frontier research coherence. `[Academic]`
 - [CLAIRE](https://claire-ai.org/) — Pan-European. Confederation of Laboratories for AI Research in Europe, connecting 400+ labs and acting as a meta-layer for European AI coordination. `[Academic]`

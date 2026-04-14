@@ -69,6 +69,7 @@ Resources for open model releases and model families useful for researchers and 
 
 ### Multilingual / Cross-lingual
 
+- [BLOOM / BigScience](https://huggingface.co/bigscience/bloom) — Landmark multilingual autoregressive LLM from the BigScience collaboration, co-led from France and Hugging Face, and still one of the clearest demonstrations that large-scale open model training can be organized as a public-interest international effort. `[Open weights]` `bigscience-bloom-rail-1.0`
 - [Helsinki-NLP / OPUS-MT](https://huggingface.co/Helsinki-NLP) — University of Helsinki collection of open neural machine translation models for European language pairs, and one of the most practical bridges between academic MT and real multilingual product work. `[Open weights]` `Apache 2.0`
 - [EuroLLM](https://huggingface.co/utter-project) — European multilingual LLM initiative for EU languages as part of the UTTER project, reflecting the wider push to keep European language coverage central in foundation-model development. `[Open weights]`
 - [EuroBERT](https://huggingface.co/EuroBERT) — Pan-European multilingual encoder for 15 European languages, aimed at giving Europe a strong open encoder layer for retrieval, classification, and downstream NLP systems. `[Open weights]` `Apache 2.0`

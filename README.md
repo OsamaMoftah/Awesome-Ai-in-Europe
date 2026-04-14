@@ -17,10 +17,10 @@
 | [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 12 |
 | [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 10 |
 | [Grants & Compute](#grants--compute) | Funding programs and European supercomputing access | 23 |
-| [Models](#models) | Open models and model families for European languages | 46 |
-| [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 4 |
-| [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications) | Autonomy, robotics, chips, scientific AI, and frontier systems | 9 |
-| [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
+| [Models](#models) | Open models and model families for European languages | 47 |
+| [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 5 |
+| [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications) | Autonomy, robotics, chips, scientific AI, and frontier systems | 11 |
+| [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 32 |
 | [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
 
 The section lists below keep each entry to one line, with tags and licensing notes to make trust, openness, and geography easy to scan at a glance while still explaining why each resource matters.
@@ -260,6 +260,7 @@ Open model releases and model families useful for researchers and builders in Eu
 
 ### Multilingual / Cross-lingual
 
+- [BLOOM / BigScience](https://huggingface.co/bigscience/bloom) — Landmark multilingual autoregressive LLM from the BigScience collaboration, co-led from France and Hugging Face, and still one of the clearest demonstrations that large-scale open model training can be organized as a public-interest international effort. `[Open weights]` `bigscience-bloom-rail-1.0`
 - [Helsinki-NLP / OPUS-MT](https://huggingface.co/Helsinki-NLP) — University of Helsinki collection of open neural machine translation models for European language pairs, and one of the most practical bridges between academic MT and real multilingual product work. `[Open weights]` `Apache 2.0`
 - [EuroLLM](https://huggingface.co/utter-project) — European multilingual LLM initiative for EU languages as part of the UTTER project, reflecting the wider push to keep European language coverage central in foundation-model development. `[Open weights]`
 - [EuroBERT](https://huggingface.co/EuroBERT) — Pan-European multilingual encoder for 15 European languages, aimed at giving Europe a strong open encoder layer for retrieval, classification, and downstream NLP systems. `[Open weights]` `Apache 2.0`
@@ -270,6 +271,7 @@ Open model releases and model families useful for researchers and builders in Eu
 
 Flagship European AI companies and products shaping the builder ecosystem.
 
+- [Hugging Face](https://huggingface.co/) — French-founded open AI platform spanning models, datasets, evaluation, and developer tooling, and arguably the most important shared infrastructure layer in the European open-source AI ecosystem. `[Open-source]`
 - [ElevenLabs](https://elevenlabs.io/about) — London-based AI audio company building voice models, developer APIs, and ElevenAgents for conversational voice and chat agents, and arguably the most visible European player in AI voice. `[Proprietary]`
 - [Synthesia](https://www.synthesia.io/about) — UK AI video platform for enterprise training and communication, showing how Europe has produced one of the category-defining companies in AI-generated media. `[Proprietary]`
 - [Stability AI](https://stability.ai/) — UK generative AI company behind the Stable Diffusion ecosystem and open model releases across image, video, audio, and language, with outsized influence on the open model movement. `[Open weights]`
@@ -284,10 +286,12 @@ Resources for European AI companies working on autonomy, robotics, chips, scient
 - [Helsing](https://helsing.ai/company) — European defence AI company building AI-enabled autonomous systems and software for democratic governments, and one of the clearest examples of strategic European AI sovereignty in practice. `[Proprietary]`
 - [Wayve](https://wayve.ai/company/) — London-headquartered embodied AI company building autonomous driving systems and world-model-style vehicle intelligence, pushing Europe into the frontier conversation on real-world autonomous agents. `[Proprietary]`
 - [ANYbotics](https://www.anybotics.com/) — Swiss robotics company building autonomous legged robots for industrial inspection, showing how European AI is extending from models and software into real-world autonomy in harsh operating environments. `[Proprietary]`
+- [Universal Robots](https://www.universal-robots.com/) — Danish collaborative robotics company whose cobot platform has become a global industrial standard, making it one of Europe's clearest examples of AI-adjacent automation at real manufacturing scale. `[Proprietary]`
 - [RobCo](https://www.robco.de/en/product-services/robot-as-a-service) — German automation company combining modular robots, AI-powered vision, and no-code orchestration to make factory robotics more software-defined and deployable for SMEs. `[Proprietary]`
 - [Agile Robots](https://www.agile-robots.com/) — Munich-based robotics company developing AI-driven automation systems for manufacturing, electronics, healthcare, and service robotics, with a strong physical-AI positioning. `[Proprietary]`
 - [BenevolentAI](https://www.benevolent.com/) — London-headquartered AI drug discovery company using proprietary AI and in-house scientific expertise to identify novel biology and accelerate therapeutic development. `[Proprietary]`
 - [Causaly](https://www.causaly.com/) — London-based scientific AI platform for life sciences R&D, combining evidence retrieval, domain-specific agents, and structured biomedical reasoning to speed research decisions. `[Proprietary]`
+- [InstaDeep](https://instadeep.com/) — UK- and Tunisia-founded decision-making AI company now part of BioNTech, notable for turning frontier machine learning into production systems for biotech, logistics, mobility, and genomics. `[Proprietary]`
 
 ## Research Labs & Institutes
 
@@ -298,6 +302,7 @@ EU-based AI research labs and institutes.
 - [DFKI](https://www.dfki.de/en/web) — Germany. German Research Center for Artificial Intelligence, one of the world's largest AI research centers and a foundational institution in the European AI story. `[Academic]`
 - [CWI](https://www.cwi.nl/) — Netherlands. National research institute for mathematics and computer science, with an ML research group and long-standing influence in European computing research. `[Academic]`
 - [Alan Turing Institute](https://www.turing.ac.uk/) — United Kingdom. National institute for data science and AI, named after Alan Turing and central to the UK's academic AI ecosystem. `[Academic]`
+- [Google DeepMind](https://deepmind.google/) — United Kingdom. Europe's most influential corporate AI lab, with London remaining a major center for frontier research spanning reinforcement learning, multimodal systems, and scientific discovery.
 - [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) — Germany. Leading research on perception, learning, and intelligent systems, with global visibility across robotics, vision, and machine learning. `[Academic]`
 - [ELLIS Institutes](https://ellis.eu/) — Pan-European. Network of AI research labs across Europe focused on machine learning excellence, helping Europe compete on talent and frontier research coherence. `[Academic]`
 - [CLAIRE](https://claire-ai.org/) — Pan-European. Confederation of Laboratories for AI Research in Europe, connecting 400+ labs and acting as a meta-layer for European AI coordination. `[Academic]`
