@@ -2,21 +2,10 @@
 
 Resources for communities, forums, and events for EU AI builders.
 
-### Online Communities
-
 - [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, with a strong European contributor base and unusually direct ties to the open generative media ecosystem.
-
-### Conferences (EU-based)
-
 - [ECML-PKDD](https://ecmlpkdd.org/) — European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, one of the continent's long-running anchor conferences for serious ML research.
 - [AI4EU Summit](https://www.ai4europe.eu/) — Annual conference of the EU-funded AI-on-Demand Platform bringing together European AI stakeholders across research, industry, and policy.
-
-### Newsletters & Media
-
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — Swiss-based AI researcher producing in-depth ML paper reviews and discussions, and one of the most recognizable European voices in open technical AI commentary.
-
-### National Associations
-
 - [Swiss AI Association](https://swissai.ch/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers, and a useful barometer for Swiss ecosystem maturity.
 - [Swiss NLP](https://swissnlp.org/) — Association connecting NLP researchers and practitioners across Switzerland, especially important in a country where multilingual language tech has outsized relevance.
 - [AI Estonia (AIRE)](https://aire-edih.eu/en/) — Estonian Digital Innovation Hub for AI, supporting SMEs and industry adoption and helping convert Estonia's digital-government strengths into applied AI capacity.

@@ -1,4 +1,4 @@
-# Contributing to Awesome Ai in Europe
+# Contributing to Awesome AI in Europe
 
 Thank you for helping build a strong resource list for European AI builders across the EU, UK, and Switzerland.
 
@@ -40,7 +40,7 @@ Use the [Add Resource issue template](.github/ISSUE_TEMPLATE/add-resource.md).
 ### Option B: Pull Request (preferred)
 
 1. Fork the repo.
-2. Add your entry to the correct file in `sections/`.
+2. Add your entry to the correct file in `sections/` — those section files are the source of truth, and `README.md` mirrors them for GitHub browsing.
 3. Follow the entry format: `- [Name](url) — one-line description.`
 4. Add license/openness tag for datasets and models: `\`Apache 2.0\`` / `\`CC-BY-4.0\`` / `\`Open weights\``
 5. Run link validation locally (requires Ruby): `gem install awesome_bot && awesome_bot README.md --allow-redirect`

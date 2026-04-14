@@ -1,4 +1,4 @@
-# Awesome Ai in Europe
+# Awesome AI in Europe
 
 ![Build AI Systems in Europe](hero.png)
 
@@ -14,17 +14,18 @@
 | [Inference Providers](#inference-providers) | EU-hosted APIs, sovereign clouds, and managed model access | 17 |
 | [Agent Frameworks & Developer Tooling](#agent-frameworks--developer-tooling) | Agent builders, orchestration, and AI-native dev platforms | 5 |
 | [RAG, Vector & Data Tooling](#rag-vector--data-tooling) | Retrieval, vector search, reranking, and data curation | 4 |
-| [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 10 |
+| [Datasets (GDPR-Safe)](#datasets-gdpr-safe) | Licensed corpora, speech, and legal data | 12 |
 | [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 10 |
 | [Grants & Compute](#grants--compute) | Funding programs and European supercomputing access | 23 |
 | [Models](#models) | Open models and model families for European languages | 46 |
 | [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 4 |
 | [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications) | Autonomy, robotics, chips, scientific AI, and frontier systems | 9 |
-| [Multilingual Resources](#multilingual-resources) | Language-tech projects and Europe-wide corpora | 2 |
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
 | [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
 
 The section lists below keep each entry to one line, with tags and licensing notes to make trust, openness, and geography easy to scan at a glance while still explaining why each resource matters.
+
+Source of truth: entries live in `sections/*.md`. The README mirrors those section files for GitHub browsing, so PRs should edit the relevant section file first.
 
 ## Browse by Geography
 
@@ -51,7 +52,6 @@ The section lists below keep each entry to one line, with tags and licensing not
 - [Models](#models)
 - [AI Companies & Products](#ai-companies--products)
 - [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications)
-- [Multilingual Resources](#multilingual-resources)
 - [Research Labs & Institutes](#research-labs--institutes)
 - [Communities & Events](#communities--events)
 - [Contributing](#contributing)
@@ -115,6 +115,11 @@ Datasets with clear EU-compatible licensing for training and evaluation.
 - [Europeana Data](https://pro.europeana.eu/data) — European cultural-heritage data from museums, libraries, and archives across the continent, useful for retrieval, multimodal research, and historically grounded European knowledge systems. `Mixed`
 - [Portuguese Corpus (AC/DC)](https://www.linguateca.pt/) — Large Portuguese text corpus for NLP research from the Linguateca ecosystem, and still one of the most practical starting points for serious Portuguese-language work. `Academic`
 - [Nordic Dialect Corpus](https://www.tekstlab.uio.no/norsk/dialekt/) — University of Oslo collection of Nordic dialect recordings and transcriptions, especially useful for speech technology that needs to reflect real regional variation rather than standard-language assumptions. `Academic`
+
+### Language Technology Projects
+
+- [HPLT (High Performance Language Technologies)](https://hplt-project.org/) — Major EU-funded initiative providing multilingual datasets and model resources across 75+ languages, showing what Europe-scale language infrastructure looks like beyond a handful of big markets. `[EU-funded]`
+- [Swiss-AL Corpus](https://www.zhaw.ch/en/linguistics/research/swiss-al/) — Large multilingual corpus covering Switzerland's national languages: German, French, Italian, and Romansh, and a good example of high-quality resources for a genuinely multilingual national context. `[Academic]`
 
 ## EU AI Act Tooling
 
@@ -284,15 +289,6 @@ Resources for European AI companies working on autonomy, robotics, chips, scient
 - [BenevolentAI](https://www.benevolent.com/) — London-headquartered AI drug discovery company using proprietary AI and in-house scientific expertise to identify novel biology and accelerate therapeutic development. `[Proprietary]`
 - [Causaly](https://www.causaly.com/) — London-based scientific AI platform for life sciences R&D, combining evidence retrieval, domain-specific agents, and structured biomedical reasoning to speed research decisions. `[Proprietary]`
 
-## Multilingual Resources
-
-Resources for non-English European languages. Dedicated model releases now live in the [Models](#models) section.
-
-### Language Technology Projects
-
-- [HPLT (High Performance Language Technologies)](https://hplt-project.org/) — Major EU-funded initiative providing multilingual datasets and model resources across 75+ languages, showing what Europe-scale language infrastructure looks like beyond a handful of big markets. `[EU-funded]`
-- [Swiss-AL Corpus](https://www.zhaw.ch/en/linguistics/research/swiss-al/) — Large multilingual corpus covering Switzerland's national languages: German, French, Italian, and Romansh, and a good example of high-quality resources for a genuinely multilingual national context. `[Academic]`
-
 ## Research Labs & Institutes
 
 EU-based AI research labs and institutes.
@@ -333,21 +329,10 @@ EU-based AI research labs and institutes.
 
 Communities, forums, and events for EU AI builders.
 
-### Online Communities
-
 - [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, with a strong European contributor base and unusually direct ties to the open generative media ecosystem.
-
-### Conferences (EU-based)
-
 - [ECML-PKDD](https://ecmlpkdd.org/) — European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, one of the continent's long-running anchor conferences for serious ML research.
 - [AI4EU Summit](https://www.ai4europe.eu/) — Annual conference of the EU-funded AI-on-Demand Platform bringing together European AI stakeholders across research, industry, and policy.
-
-### Newsletters & Media
-
 - [Yannic Kilcher](https://www.youtube.com/@YannicKilcher) — Swiss-based AI researcher producing in-depth ML paper reviews and discussions, and one of the most recognizable European voices in open technical AI commentary.
-
-### National Associations
-
 - [Swiss AI Association](https://swissai.ch/) — Switzerland's primary AI ecosystem body connecting researchers, businesses, and policy makers, and a useful barometer for Swiss ecosystem maturity.
 - [Swiss NLP](https://swissnlp.org/) — Association connecting NLP researchers and practitioners across Switzerland, especially important in a country where multilingual language tech has outsized relevance.
 - [AI Estonia (AIRE)](https://aire-edih.eu/en/) — Estonian Digital Innovation Hub for AI, supporting SMEs and industry adoption and helping convert Estonia's digital-government strengths into applied AI capacity.

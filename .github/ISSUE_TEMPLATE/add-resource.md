@@ -9,7 +9,7 @@ labels: ["addition", "needs-review"]
 <!-- Name and full URL -->
 
 **Which section does it belong to?**
-<!-- inference-providers / datasets-gdpr-safe / eu-ai-act-tooling / grants-compute / models / multilingual / research-labs / communities -->
+<!-- inference-providers / agent-frameworks-tooling / rag-vector-data-tooling / datasets-gdpr-safe / eu-ai-act-tooling / grants-compute / models / ai-companies-products / deep-tech-frontier-applications / research-labs / communities -->
 
 **One-line description (your own words, not copy-pasted from the site)**
 <!-- Max 120 characters -->
