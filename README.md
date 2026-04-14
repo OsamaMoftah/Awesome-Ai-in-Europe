@@ -24,21 +24,6 @@
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
 | [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
 
-## Featured Picks
-
-| Pick | Section | Why it stands out |
-| --- | --- | --- |
-| [Infomaniak AI Services](https://www.infomaniak.com/en/hosting/ai-services) | Inference Providers | Swiss privacy-first managed inference with a free tier and Geneva hosting. |
-| [Haystack](https://docs.haystack.deepset.ai/docs) | Agent Frameworks & Developer Tooling | One of Europe's most established open stacks for RAG and agent orchestration. |
-| [Qdrant](https://qdrant.tech/documentation/) | RAG, Vector & Data Tooling | A European-founded vector database that has become core infrastructure for modern RAG systems. |
-| [JUPITER (FZJ)](https://www.fz-juelich.de/en/ias/jsc/jupiter) | Grants & Compute | Europe's first exascale system, designed for large-scale AI training and research. |
-| [Occiglot](https://occiglot.eu/) | Models | Pan-European foundation-model initiative for all 24 official EU languages. |
-| [ElevenLabs](https://elevenlabs.io/about) | AI Companies & Products | A globally important European AI audio company with strong developer tooling and agent momentum. |
-| [Prophesee](https://www.prophesee.ai/) | Deep Tech AI & Frontier Applications | A rare European company building neuromorphic vision hardware and AI for autonomy and industrial perception. |
-| [COMPL-AI](https://compl-ai.org/) | EU AI Act Tooling | A benchmark-driven ETH Zurich project that turns AI Act discussion into evaluable model behavior. |
-| [Kyutai](https://kyutai.org/) | Research Labs & Institutes | A rare open-science lab proving frontier voice research can still be done transparently. |
-| [Swiss AI Association](https://swissai.ch/) | Communities & Events | Switzerland's primary AI ecosystem body for research, business, and policy. |
-
 The section lists below keep each entry to one line, with tags and licensing notes to make trust, openness, and geography easy to scan at a glance while still explaining why each resource matters.
 
 ## Browse by Geography
@@ -56,7 +41,6 @@ The section lists below keep each entry to one line, with tags and licensing not
 ## Contents
 
 - [At a glance](#at-a-glance)
-- [Featured Picks](#featured-picks)
 - [Browse by Geography](#browse-by-geography)
 - [Inference Providers](#inference-providers)
 - [Agent Frameworks & Developer Tooling](#agent-frameworks--developer-tooling)
