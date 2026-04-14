@@ -2,7 +2,7 @@
 
 ![Build AI Systems in Europe](hero.png)
 
-> List of resources for building AI systems in Europe: infrastructure, agent tooling, vector systems, models, datasets, compliance tooling, funding, and research labs.
+> List of resources for building AI systems in Europe: infrastructure, agent tooling, vector systems, deep-tech applications, models, datasets, compliance tooling, funding, and research labs.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -18,7 +18,8 @@
 | [EU AI Act Tooling](#eu-ai-act-tooling) | Risk classification, documentation, audit, and assessment | 10 |
 | [Grants & Compute](#grants--compute) | Funding programs and European supercomputing access | 23 |
 | [Models](#models) | Open models and model families for European languages | 46 |
-| [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 6 |
+| [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 4 |
+| [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications) | Autonomy, robotics, chips, scientific AI, and frontier systems | 9 |
 | [Multilingual Resources](#multilingual-resources) | Language-tech projects and Europe-wide corpora | 2 |
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 31 |
 | [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
@@ -33,6 +34,7 @@
 | [JUPITER (FZJ)](https://www.fz-juelich.de/en/ias/jsc/jupiter) | Grants & Compute | Europe's first exascale system, designed for large-scale AI training and research. |
 | [Occiglot](https://occiglot.eu/) | Models | Pan-European foundation-model initiative for all 24 official EU languages. |
 | [ElevenLabs](https://elevenlabs.io/about) | AI Companies & Products | A globally important European AI audio company with strong developer tooling and agent momentum. |
+| [Prophesee](https://www.prophesee.ai/) | Deep Tech AI & Frontier Applications | A rare European company building neuromorphic vision hardware and AI for autonomy and industrial perception. |
 | [COMPL-AI](https://compl-ai.org/) | EU AI Act Tooling | A benchmark-driven ETH Zurich project that turns AI Act discussion into evaluable model behavior. |
 | [Kyutai](https://kyutai.org/) | Research Labs & Institutes | A rare open-science lab proving frontier voice research can still be done transparently. |
 | [Swiss AI Association](https://swissai.ch/) | Communities & Events | Switzerland's primary AI ecosystem body for research, business, and policy. |
@@ -46,7 +48,7 @@ The section lists below keep each entry to one line, with tags and licensing not
 | Switzerland | Sovereign inference, Swiss-language resources, applied AI hubs, and research bodies |
 | Nordics | Nordic language models, regional corpora, and strong public compute programs |
 | DACH | German-language models, enterprise inference, agent tooling, and AI Act tooling |
-| Western Europe | Major labs, enterprise AI services, AI-native products, and large multilingual projects |
+| Western Europe | Major labs, enterprise AI services, AI-native products, deep-tech AI, and large multilingual projects |
 | Southern Europe | Catalan, Spanish, Italian, Portuguese, and Greek resources |
 | Central & Eastern Europe | Slavic, Baltic, and Balkan models, labs, and communities |
 | Pan-European | EU-wide datasets, compute, funding, and foundational models |
@@ -64,6 +66,7 @@ The section lists below keep each entry to one line, with tags and licensing not
 - [Grants & Compute](#grants--compute)
 - [Models](#models)
 - [AI Companies & Products](#ai-companies--products)
+- [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications)
 - [Multilingual Resources](#multilingual-resources)
 - [Research Labs & Institutes](#research-labs--institutes)
 - [Communities & Events](#communities--events)
@@ -281,9 +284,21 @@ Flagship European AI companies and products shaping the builder ecosystem.
 - [ElevenLabs](https://elevenlabs.io/about) — London-based AI audio company building voice models, developer APIs, and ElevenAgents for conversational voice and chat agents, and arguably the most visible European player in AI voice. `[Proprietary]`
 - [Synthesia](https://www.synthesia.io/about) — UK AI video platform for enterprise training and communication, showing how Europe has produced one of the category-defining companies in AI-generated media. `[Proprietary]`
 - [Stability AI](https://stability.ai/) — UK generative AI company behind the Stable Diffusion ecosystem and open model releases across image, video, audio, and language, with outsized influence on the open model movement. `[Open weights]`
+- [H Company](https://www.hcompany.ai/) — French startup focusing on action models and software-executing systems rather than pure chat interfaces, making it one of Europe's most visible bets on autonomous multi-step reasoning. `[Proprietary]`
+
+## Deep Tech AI & Frontier Applications
+
+Resources for European AI companies working on autonomy, robotics, chips, scientific AI, and other hard-tech applications where AI is tightly coupled to hardware, industry, or frontier science.
+
+- [Graphcore](https://www.graphcore.ai/) — UK chip company behind the IPU architecture, long viewed as Europe's strongest attempt to build AI-first compute hardware rather than relying entirely on US GPU ecosystems. `[Proprietary]`
+- [Prophesee](https://www.prophesee.ai/) — French deep-tech company building neuromorphic vision sensors and event-based AI systems inspired by human vision, with strong relevance for robotics, mobility, and high-speed industrial perception. `[Proprietary]`
 - [Helsing](https://helsing.ai/company) — European defence AI company building AI-enabled autonomous systems and software for democratic governments, and one of the clearest examples of strategic European AI sovereignty in practice. `[Proprietary]`
 - [Wayve](https://wayve.ai/company/) — London-headquartered embodied AI company building autonomous driving systems and world-model-style vehicle intelligence, pushing Europe into the frontier conversation on real-world autonomous agents. `[Proprietary]`
-- [H Company](https://www.hcompany.ai/) — French startup focusing on action models and software-executing systems rather than pure chat interfaces, making it one of Europe's most visible bets on autonomous multi-step reasoning. `[Proprietary]`
+- [ANYbotics](https://www.anybotics.com/) — Swiss robotics company building autonomous legged robots for industrial inspection, showing how European AI is extending from models and software into real-world autonomy in harsh operating environments. `[Proprietary]`
+- [RobCo](https://www.robco.de/en/product-services/robot-as-a-service) — German automation company combining modular robots, AI-powered vision, and no-code orchestration to make factory robotics more software-defined and deployable for SMEs. `[Proprietary]`
+- [Agile Robots](https://www.agile-robots.com/) — Munich-based robotics company developing AI-driven automation systems for manufacturing, electronics, healthcare, and service robotics, with a strong physical-AI positioning. `[Proprietary]`
+- [BenevolentAI](https://www.benevolent.com/) — London-headquartered AI drug discovery company using proprietary AI and in-house scientific expertise to identify novel biology and accelerate therapeutic development. `[Proprietary]`
+- [Causaly](https://www.causaly.com/) — London-based scientific AI platform for life sciences R&D, combining evidence retrieval, domain-specific agents, and structured biomedical reasoning to speed research decisions. `[Proprietary]`
 
 ## Multilingual Resources
 
