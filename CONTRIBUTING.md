@@ -1,6 +1,6 @@
-# Contributing to Awesome Ai-infra Europe+
+# Contributing to Awesome Ai in Europe
 
-Thank you for helping build the best resource list for European AI builders (the **+** in our name signifies the inclusion of the UK and Switzerland).
+Thank you for helping build a strong resource list for European AI builders across the EU, UK, and Switzerland.
 
 ## Inclusion criteria
 
@@ -25,7 +25,7 @@ If a description mentions an enforcement date or deadline, append:
 
 ## Scope fences — what we exclude
 
-- **Commercial-only tools** where a comparable open-source option exists.
+- **Commercial-only tools** with weak documentation, no meaningful developer relevance, or no clear role in the European AI ecosystem.
 - **Non-European resources** unless they are specifically designed for European law or multi-jurisdictional use covering the EU, UK, or Switzerland.
 - **Resources behind paywalls** without a meaningful free tier or open documentation.
 - **Inactive projects** (last commit/update > 18 months with no archived status).
@@ -59,6 +59,7 @@ Tags to use where applicable:
 - `[Open weights]` — model weights available
 - `[Free tier]` — free access available
 - `[Academic]` — academic/research only
+- `[Proprietary]` — closed-source commercial product with clear documentation
 
 ## Update cadence
 
