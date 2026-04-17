@@ -276,6 +276,7 @@ Flagship European AI companies and products shaping the builder ecosystem.
 - [Synthesia](https://www.synthesia.io/about) — UK AI video platform for enterprise training and communication, showing how Europe has produced one of the category-defining companies in AI-generated media. `[Proprietary]`
 - [Stability AI](https://stability.ai/) — UK generative AI company behind the Stable Diffusion ecosystem and open model releases across image, video, audio, and language, with outsized influence on the open model movement. `[Open weights]`
 - [H Company](https://www.hcompany.ai/) — French startup focusing on action models and software-executing systems rather than pure chat interfaces, making it one of Europe's most visible bets on autonomous multi-step reasoning. `[Proprietary]`
+- [MindMap AI](https://mindmapai.app/text-summarizer) — AI-powered mind mapping platform that converts documents, PDFs, and research into structured visual knowledge maps, supporting idea organization, planning, and learning workflows. `[Proprietary]`
 
 ## Deep Tech AI & Frontier Applications
 
