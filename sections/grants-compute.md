@@ -10,7 +10,7 @@ Resources for funding and compute programs available to EU-based developers and 
 ### National Programs
 
 - [France 2030 — AI National Strategy](https://www.gouvernement.fr/france-2030) — French national programme funding AI research labs, compute infrastructure, and startups, and one of the clearest examples of Europe backing AI as a long-term industrial priority. `[National]`
-- [German BMWK AI Programs](https://www.bmwk.de/Redaktion/EN/Dossier/artificial-intelligence.html) — German Federal Ministry for Economic Affairs funding for applied AI projects and SMEs, especially relevant for companies translating research into industrial deployment. `[National]`
+- [German BMWE AI Programs](https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Artikel/Technology/artificial-intelligence.html) — Funding for applied AI projects and SMEs from Germany's Federal Ministry for Economic Affairs and Energy (renamed from BMWK to BMWE in May 2025), especially relevant for companies translating research into industrial deployment. `[National]`
 - [NL AIC — Netherlands AI Coalition](https://nlaic.com/) — Dutch public-private partnership coordinating national AI funding and strategy, useful as both a funding signal and a map of the Dutch AI ecosystem. `[National]`
 - [Innosuisse AI Funding](https://www.innosuisse.ch/inno/en/home/start-your-innovation-project/innovation-projects.html) — Swiss federal innovation funding for AI startups, applied research, and industry partnerships, often acting as the bridge between strong Swiss research and commercialization. `[National]`
 
@@ -33,9 +33,9 @@ Resources for funding and compute programs available to EU-based developers and 
 - [SNSF BRIDGE](https://www.bridge.ch/en/) — Swiss programme helping research projects transition into innovation and commercialization, particularly useful when strong academic work is ready to leave the lab. `[National]`
 - [FNR (Luxembourg National Research Fund)](https://www.fnr.lu/) — Luxembourg's main public research funder, including AI- and data-related calls that help a smaller ecosystem punch above its size. `[National]`
 - [FFG — Austrian Research Promotion Agency](https://www.ffg.at/en) — Austrian national funding agency for R&D projects including AI, providing a practical route for applied innovation and industry collaboration. `[National]`
-- [Innovation Fund Serbia](https://www.innovationfund.rs/en) — Serbian innovation funding agency, relevant for early-stage and growth-stage technology projects in South-East Europe. `[National]`
+- [Innovation Fund Serbia](https://www.inovacionifond.rs/en/) — Serbian innovation funding agency, relevant for early-stage and growth-stage technology projects in South-East Europe. `[National]`
 - [HRZZ — Croatian Science Foundation](https://www.hrzz.hr/) — Croatian national science funding body, supporting the research layer that underpins a still-growing Croatian AI ecosystem. `[National]`
 - [NKFIH — Hungarian National Research, Development and Innovation Office](https://nkfih.gov.hu/english) — Hungarian national funding body for research and innovation, including programs that can support local AI capability building. `[National]`
 - [FCT — Foundation for Science and Technology](https://www.fct.pt/en/) — Principal national research funding agency in Portugal, and a key anchor for university-led AI research and long-horizon technical work. `[National]`
 - [LMT — Research Council of Lithuania](https://www.lmt.lt/en) — Lithuanian national research funding agency, important for sustaining Baltic AI research capacity and cross-border collaboration. `[National]`
-- [LZP — Latvian Council of Science](https://www.lzp.lv/en) — Latvian national science funding body, helping maintain local research depth in a smaller but strategically relevant ecosystem. `[National]`
+- [LZP — Latvian Council of Science](https://www.lzp.gov.lv/en) — Latvian national science funding body, helping maintain local research depth in a smaller but strategically relevant ecosystem. `[National]`

@@ -13,8 +13,7 @@ Resources for communities, forums, and events for EU AI builders.
 - [Croatian AI Association](https://croai.org/) — Croatian AI community connecting researchers and industry, helping a smaller national market build continuity instead of one-off initiatives.
 - [APPIA](https://www.appia.pt/) — Portuguese Association for Artificial Intelligence, connecting researchers and practitioners across Portugal and sustaining a long-running national AI network.
 - [Lithuanian AI Association](https://lithuania.ai/en/about) — National AI association connecting Lithuania's AI ecosystem across research, business, and policy, reflecting the Baltics' increasingly organized AI posture.
-- [Malta AI Association](https://malta-ai.org/) — AI community in Malta, included because smaller ecosystems still benefit from visible coordination and community infrastructure.
-- [Cyprus AI Initiative](https://cyprusai.org/) — AI community in Cyprus, helping local builders, startups, and researchers find a shared ecosystem layer.
+- [Cyprus AI Association](https://cyaia.org/) — AI community in Cyprus connecting researchers, startups, and industry, and building bridges between academia, industry, and government.
 - [Slovakia.ai](https://slovakia.ai/en/) — Association for the development and application of artificial intelligence in Slovakia, useful as a national entry point for a fast-evolving ecosystem.
 - [Hellenic AI Society (EETN)](https://www.eetn.gr/) — Greek professional association for researchers and practitioners in AI, linking academic depth with the broader Greek technology community.
 - [AI Poland](https://aipoland.org/) — Foundation promoting the Polish AI ecosystem through collaboration and policy, and important given Poland's growing weight in European AI.

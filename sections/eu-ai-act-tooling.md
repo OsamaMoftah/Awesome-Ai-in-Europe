@@ -10,9 +10,9 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 
 - [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act, functioning as a useful litmus test for trustworthy model behavior rather than just a documentation exercise. `[Open-source]` `[Academic]`
 - [LNE AI Process Certification](https://www.lne.fr/en/service/certification/certification-processes-ai) — French national metrology lab certification covering design, development, evaluation, and maintenance processes aligned with EU AI Act trust requirements, notable because it brings institutional rigor to process-level AI assurance. `[Free]`
-- [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety, reflecting Europe's push toward repeatable technical evaluation rather than ad hoc claims. `[Open-source]`
+- [Zertifizierte KI](https://www.zertifizierte-ki.de/) — German testing-procedure initiative from Fraunhofer IAIS with BSI and DIN developing standardized certification for AI system quality and safety, reflecting Europe's push toward repeatable technical evaluation rather than ad hoc claims. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation, aimed at teams that need to turn policy obligations into repeatable operating workflows. `[Proprietary]`
-- [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management, with a strong emphasis on documentation, controls, and enterprise readiness. `[Proprietary]`
+- [Enzai](https://www.enz.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management, with a strong emphasis on documentation, controls, and enterprise readiness. `[Proprietary]`
 - [Holistic AI](https://www.holisticai.com/) — AI governance, risk, and compliance platform with a strong auditing and transparency focus, useful for organizations that want technical oversight and board-level governance in one place. `[Proprietary]`
 
 ### Conformity Assessment Prep
