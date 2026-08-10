@@ -128,6 +128,7 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 ### Risk Classification
 
 - [ai-act-checklist](https://github.com/AlgorithmWatch/ai-act-checklist) — German open-source checklist tool from AlgorithmWatch for mapping AI systems to EU AI Act risk categories, useful as a practical first pass before legal review or formal governance work. `[Open-source]`
+- [ISMS Copilot EU AI Act risk checker](https://www.ismscopilot.com/resources/eu-ai-act-risk-checker) - Free browser risk-tier classification under Regulation (EU) 2024/1689, from a French compliance vendor. `[Free]` `[EU-hosted]`
 
 ### Monitoring / Audit
 
@@ -137,6 +138,7 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation, aimed at teams that need to turn policy obligations into repeatable operating workflows. `[Proprietary]`
 - [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management, with a strong emphasis on documentation, controls, and enterprise readiness. `[Proprietary]`
 - [Holistic AI](https://www.holisticai.com/) — AI governance, risk, and compliance platform with a strong auditing and transparency focus, useful for organizations that want technical oversight and board-level governance in one place. `[Proprietary]`
+- [ISMS Copilot](https://www.ismscopilot.com/) - French specialized AI assistant for EU AI Act and ISO 42001 compliance work (policy, gap analysis, control mapping), with optional EU-region AI mode. Complements governance platforms rather than replacing model audit tooling. `[Proprietary]` `[Free tier]` `[EU-hosted]`
 
 ### Conformity Assessment Prep
 
