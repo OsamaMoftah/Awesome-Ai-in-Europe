@@ -65,7 +65,7 @@ Source of truth: entries live in `sections/*.md`. The README mirrors those secti
 Resources for EU-hosted APIs, sovereign clouds, and managed model access.
 
 - [Mistral AI](https://mistral.ai/) — French AI company and one of Europe's best-known frontier-model labs, offering EU-hosted API endpoints and open-weight releases that give European builders a credible local alternative to US hyperscaler stacks. `[EU-hosted]` `[Open weights]`
-- [Aleph Alpha](https://aleph-alpha.com/) — German sovereign AI company known for enterprise LLMs and regulated deployment support, with a strong focus on explainability, secure hosting, and public-sector adoption; agreed to merge with Canada's Cohere in April 2026 to form a transatlantic AI group backed by Schwarz Group, with the deal not yet closed. `[EU-hosted]` `[GDPR-DPA]`
+- [Aleph Alpha](https://aleph-alpha.com/) — German sovereign AI company known for enterprise LLMs and regulated deployment support, with a strong focus on explainability, secure hosting, and public-sector adoption. Aleph Alpha and Canada's Cohere signed a definitive business-combination agreement in September 2026 to form a transatlantic sovereign-AI group; the deal remains subject to regulatory approvals. `[EU-hosted]` `[GDPR-DPA]`
 - [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) — Managed AI inference on OVHcloud's EU-sovereign infrastructure with open-source models, making it easier to run European AI workloads on established cloud rails. `[EU-hosted]` `[GDPR-DPA]`
 - [Scaleway Generative APIs](https://www.scaleway.com/en/generative-apis/) — French cloud provider running managed LLM inference from EU data centers, useful for teams that want a simpler API path without leaving European hosting. `[EU-hosted]` `[GDPR-DPA]`
 - [Deutsche Telekom Industrial AI Cloud](https://www.telekom.com/en/company/details/industrial-ai-cloud-1100158) — German sovereign AI cloud from T-Systems for training and running models inside Germany, aimed at industrial and regulated deployments that need strong residency guarantees. `[EU-hosted]` `[GDPR-DPA]`
@@ -276,6 +276,7 @@ Flagship European AI companies and products shaping the builder ecosystem.
 - [Synthesia](https://www.synthesia.io/about) — UK AI video platform for enterprise training and communication, showing how Europe has produced one of the category-defining companies in AI-generated media. `[Proprietary]`
 - [Stability AI](https://stability.ai/) — UK generative AI company behind the Stable Diffusion ecosystem and open model releases across image, video, audio, and language, with outsized influence on the open model movement. `[Open weights]`
 - [H Company](https://www.hcompany.ai/) — French startup focusing on action models and software-executing systems rather than pure chat interfaces, making it one of Europe's most visible bets on autonomous multi-step reasoning. `[Proprietary]`
+- [Parloa](https://www.parloa.com/en/) — Berlin-headquartered enterprise AI-agent company whose platform helps organizations design, deploy, and manage customer-service agents across voice and digital channels. `[Proprietary]`
 
 ## Deep Tech AI & Frontier Applications
 
@@ -292,6 +293,8 @@ Resources for European AI companies working on autonomy, robotics, chips, scient
 - [BenevolentAI](https://www.benevolent.com/) — London-headquartered AI drug discovery company using proprietary AI and in-house scientific expertise to identify novel biology and accelerate therapeutic development. `[Proprietary]`
 - [Causaly](https://www.causaly.com/) — London-based scientific AI platform for life sciences R&D, combining evidence retrieval, domain-specific agents, and structured biomedical reasoning to speed research decisions. `[Proprietary]`
 - [InstaDeep](https://instadeep.com/) — UK- and Tunisia-founded decision-making AI company now part of BioNTech, notable for turning frontier machine learning into production systems for biotech, logistics, mobility, and genomics. `[Proprietary]`
+- [Helsing](https://helsing.ai/) — Munich-founded European defence-technology company building AI-enabled software and autonomous systems for governments and democratic allies. `[Proprietary]`
+- [Owkin](https://www.owkin.com/) — Paris-based AI-biotech company building agentic systems for biological research and biopharma decision-making from multimodal patient data. `[Proprietary]`
 
 ## Research Labs & Institutes
 
