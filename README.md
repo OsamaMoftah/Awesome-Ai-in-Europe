@@ -21,7 +21,7 @@
 | [AI Companies & Products](#ai-companies--products) | Flagship European AI companies and developer-facing products | 5 |
 | [Deep Tech AI & Frontier Applications](#deep-tech-ai--frontier-applications) | Autonomy, robotics, chips, scientific AI, and frontier systems | 11 |
 | [Research Labs & Institutes](#research-labs--institutes) | Academic and applied AI research hubs | 32 |
-| [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 20 |
+| [Communities & Events](#communities--events) | Ecosystem groups, conferences, and media | 19 |
 
 The section lists below keep each entry to one line, with tags and licensing notes to make trust, openness, and geography easy to scan at a glance while still explaining why each resource matters.
 
@@ -62,10 +62,10 @@ Source of truth: entries live in `sections/*.md`. The README mirrors those secti
 
 ## Inference Providers
 
-EU-based or EU-compliant LLM inference hosts.
+Resources for EU-hosted APIs, sovereign clouds, and managed model access.
 
 - [Mistral AI](https://mistral.ai/) — French AI company and one of Europe's best-known frontier-model labs, offering EU-hosted API endpoints and open-weight releases that give European builders a credible local alternative to US hyperscaler stacks. `[EU-hosted]` `[Open weights]`
-- [Aleph Alpha](https://aleph-alpha.com/) — German sovereign AI company known for enterprise LLMs and regulated deployment support, with a strong focus on explainability, secure hosting, and public-sector adoption. `[EU-hosted]` `[GDPR-DPA]`
+- [Aleph Alpha](https://aleph-alpha.com/) — German sovereign AI company known for enterprise LLMs and regulated deployment support, with a strong focus on explainability, secure hosting, and public-sector adoption; agreed to merge with Canada's Cohere in April 2026 to form a transatlantic AI group backed by Schwarz Group, with the deal not yet closed. `[EU-hosted]` `[GDPR-DPA]`
 - [OVHcloud AI Endpoints](https://www.ovhcloud.com/en/public-cloud/ai-endpoints/catalog/) — Managed AI inference on OVHcloud's EU-sovereign infrastructure with open-source models, making it easier to run European AI workloads on established cloud rails. `[EU-hosted]` `[GDPR-DPA]`
 - [Scaleway Generative APIs](https://www.scaleway.com/en/generative-apis/) — French cloud provider running managed LLM inference from EU data centers, useful for teams that want a simpler API path without leaving European hosting. `[EU-hosted]` `[GDPR-DPA]`
 - [Deutsche Telekom Industrial AI Cloud](https://www.telekom.com/en/company/details/industrial-ai-cloud-1100158) — German sovereign AI cloud from T-Systems for training and running models inside Germany, aimed at industrial and regulated deployments that need strong residency guarantees. `[EU-hosted]` `[GDPR-DPA]`
@@ -103,7 +103,7 @@ Resources for retrieval, vector search, reranking, and data curation for Europea
 
 ## Datasets (GDPR-Safe)
 
-Datasets with clear EU-compatible licensing for training and evaluation.
+Resources for licensed corpora, speech, and legal data with clear EU-compatible reuse terms.
 
 - [OPUS Corpora](https://opus.nlpl.eu/) — University of Helsinki-led collection of freely available parallel corpora for European machine translation, and one of the practical backbones for multilingual benchmarking, bootstrapping, and product evaluation. `Various open licenses`
 - [EuroParl](https://www.statmt.org/europarl/) — Landmark parallel corpus from European Parliament proceedings in 21 EU languages, widely used because it captures high-quality aligned text across the continent's major official languages. `Free for research`
@@ -114,7 +114,7 @@ Datasets with clear EU-compatible licensing for training and evaluation.
 - [Leipzig Corpora Collection](https://corpora.uni-leipzig.de/en) — German university corpus collection with comparable monolingual resources across many European languages, helpful when smaller-language coverage matters more than pure benchmark popularity. `Academic`
 - [Europeana Data](https://pro.europeana.eu/data) — European cultural-heritage data from museums, libraries, and archives across the continent, useful for retrieval, multimodal research, and historically grounded European knowledge systems. `Mixed`
 - [Portuguese Corpus (AC/DC)](https://www.linguateca.pt/) — Large Portuguese text corpus for NLP research from the Linguateca ecosystem, and still one of the most practical starting points for serious Portuguese-language work. `Academic`
-- [Nordic Dialect Corpus](https://www.tekstlab.uio.no/norsk/dialekt/) — University of Oslo collection of Nordic dialect recordings and transcriptions, especially useful for speech technology that needs to reflect real regional variation rather than standard-language assumptions. `Academic`
+- [Nordic Dialect Corpus](https://tekstlab.uio.no/nota/scandiasyn/) — University of Oslo collection of Nordic dialect recordings and transcriptions, especially useful for speech technology that needs to reflect real regional variation rather than standard-language assumptions. `Academic`
 
 ### Language Technology Projects
 
@@ -133,9 +133,9 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 
 - [COMPL-AI](https://compl-ai.org/) — ETH Zurich benchmark framework for evaluating LLM compliance with the EU AI Act, functioning as a useful litmus test for trustworthy model behavior rather than just a documentation exercise. `[Open-source]` `[Academic]`
 - [LNE AI Process Certification](https://www.lne.fr/en/service/certification/certification-processes-ai) — French national metrology lab certification covering design, development, evaluation, and maintenance processes aligned with EU AI Act trust requirements, notable because it brings institutional rigor to process-level AI assurance. `[Free]`
-- [Z-Examen](https://z-examen.de/en/) — German research project developing a standardized testing and certification procedure for AI system quality and safety, reflecting Europe's push toward repeatable technical evaluation rather than ad hoc claims. `[Open-source]`
+- [Zertifizierte KI](https://www.zertifizierte-ki.de/) — German testing-procedure initiative from Fraunhofer IAIS with BSI and DIN developing standardized certification for AI system quality and safety, reflecting Europe's push toward repeatable technical evaluation rather than ad hoc claims. `[Open-source]`
 - [Saidot](https://www.saidot.ai/) — Finnish AI governance and transparency platform for managing risks and documentation, aimed at teams that need to turn policy obligations into repeatable operating workflows. `[Proprietary]`
-- [Enzai](https://www.enzai.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management, with a strong emphasis on documentation, controls, and enterprise readiness. `[Proprietary]`
+- [Enzai](https://www.enz.ai/) — Northern Ireland-based AI governance platform for compliance and regulatory risk management, with a strong emphasis on documentation, controls, and enterprise readiness. `[Proprietary]`
 - [Holistic AI](https://www.holisticai.com/) — AI governance, risk, and compliance platform with a strong auditing and transparency focus, useful for organizations that want technical oversight and board-level governance in one place. `[Proprietary]`
 
 ### Conformity Assessment Prep
@@ -149,7 +149,7 @@ Resources for EU AI Act compliance workflows built by European organizations. Th
 
 ## Grants & Compute
 
-Funding and compute programs available to EU-based developers and researchers.
+Resources for funding and compute programs available to EU-based developers and researchers.
 
 ### EU Grants
 
@@ -159,7 +159,7 @@ Funding and compute programs available to EU-based developers and researchers.
 ### National Programs
 
 - [France 2030 — AI National Strategy](https://www.gouvernement.fr/france-2030) — French national programme funding AI research labs, compute infrastructure, and startups, and one of the clearest examples of Europe backing AI as a long-term industrial priority. `[National]`
-- [German BMWK AI Programs](https://www.bmwk.de/Redaktion/EN/Dossier/artificial-intelligence.html) — German Federal Ministry for Economic Affairs funding for applied AI projects and SMEs, especially relevant for companies translating research into industrial deployment. `[National]`
+- [German BMWE AI Programs](https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Artikel/Technology/artificial-intelligence.html) — Funding for applied AI projects and SMEs from Germany's Federal Ministry for Economic Affairs and Energy (renamed from BMWK to BMWE in May 2025), especially relevant for companies translating research into industrial deployment. `[National]`
 - [NL AIC — Netherlands AI Coalition](https://nlaic.com/) — Dutch public-private partnership coordinating national AI funding and strategy, useful as both a funding signal and a map of the Dutch AI ecosystem. `[National]`
 - [Innosuisse AI Funding](https://www.innosuisse.ch/inno/en/home/start-your-innovation-project/innovation-projects.html) — Swiss federal innovation funding for AI startups, applied research, and industry partnerships, often acting as the bridge between strong Swiss research and commercialization. `[National]`
 
@@ -182,16 +182,16 @@ Funding and compute programs available to EU-based developers and researchers.
 - [SNSF BRIDGE](https://www.bridge.ch/en/) — Swiss programme helping research projects transition into innovation and commercialization, particularly useful when strong academic work is ready to leave the lab. `[National]`
 - [FNR (Luxembourg National Research Fund)](https://www.fnr.lu/) — Luxembourg's main public research funder, including AI- and data-related calls that help a smaller ecosystem punch above its size. `[National]`
 - [FFG — Austrian Research Promotion Agency](https://www.ffg.at/en) — Austrian national funding agency for R&D projects including AI, providing a practical route for applied innovation and industry collaboration. `[National]`
-- [Innovation Fund Serbia](https://www.innovationfund.rs/en) — Serbian innovation funding agency, relevant for early-stage and growth-stage technology projects in South-East Europe. `[National]`
+- [Innovation Fund Serbia](https://www.inovacionifond.rs/en/) — Serbian innovation funding agency, relevant for early-stage and growth-stage technology projects in South-East Europe. `[National]`
 - [HRZZ — Croatian Science Foundation](https://www.hrzz.hr/) — Croatian national science funding body, supporting the research layer that underpins a still-growing Croatian AI ecosystem. `[National]`
 - [NKFIH — Hungarian National Research, Development and Innovation Office](https://nkfih.gov.hu/english) — Hungarian national funding body for research and innovation, including programs that can support local AI capability building. `[National]`
 - [FCT — Foundation for Science and Technology](https://www.fct.pt/en/) — Principal national research funding agency in Portugal, and a key anchor for university-led AI research and long-horizon technical work. `[National]`
 - [LMT — Research Council of Lithuania](https://www.lmt.lt/en) — Lithuanian national research funding agency, important for sustaining Baltic AI research capacity and cross-border collaboration. `[National]`
-- [LZP — Latvian Council of Science](https://www.lzp.lv/en) — Latvian national science funding body, helping maintain local research depth in a smaller but strategically relevant ecosystem. `[National]`
+- [LZP — Latvian Council of Science](https://www.lzp.gov.lv/en) — Latvian national science funding body, helping maintain local research depth in a smaller but strategically relevant ecosystem. `[National]`
 
 ## Models
 
-Open model releases and model families useful for researchers and builders in Europe.
+Resources for open model releases and model families useful for researchers and builders in Europe.
 
 ### Swiss & Alpine
 
@@ -287,7 +287,7 @@ Resources for European AI companies working on autonomy, robotics, chips, scient
 - [Wayve](https://wayve.ai/company/) — London-headquartered embodied AI company building autonomous driving systems and world-model-style vehicle intelligence, pushing Europe into the frontier conversation on real-world autonomous agents. `[Proprietary]`
 - [ANYbotics](https://www.anybotics.com/) — Swiss robotics company building autonomous legged robots for industrial inspection, showing how European AI is extending from models and software into real-world autonomy in harsh operating environments. `[Proprietary]`
 - [Universal Robots](https://www.universal-robots.com/) — Danish collaborative robotics company whose cobot platform has become a global industrial standard, making it one of Europe's clearest examples of AI-adjacent automation at real manufacturing scale. `[Proprietary]`
-- [RobCo](https://www.robco.de/en/product-services/robot-as-a-service) — German automation company combining modular robots, AI-powered vision, and no-code orchestration to make factory robotics more software-defined and deployable for SMEs. `[Proprietary]`
+- [RobCo](https://www.rob.co/company/resources/glossary/what-is-raas-robot-as-a-service-explained) — German automation company combining modular robots, AI-powered vision, and no-code orchestration to make factory robotics more software-defined and deployable for SMEs. `[Proprietary]`
 - [Agile Robots](https://www.agile-robots.com/) — Munich-based robotics company developing AI-driven automation systems for manufacturing, electronics, healthcare, and service robotics, with a strong physical-AI positioning. `[Proprietary]`
 - [BenevolentAI](https://www.benevolent.com/) — London-headquartered AI drug discovery company using proprietary AI and in-house scientific expertise to identify novel biology and accelerate therapeutic development. `[Proprietary]`
 - [Causaly](https://www.causaly.com/) — London-based scientific AI platform for life sciences R&D, combining evidence retrieval, domain-specific agents, and structured biomedical reasoning to speed research decisions. `[Proprietary]`
@@ -295,7 +295,7 @@ Resources for European AI companies working on autonomy, robotics, chips, scient
 
 ## Research Labs & Institutes
 
-EU-based AI research labs and institutes.
+Resources for EU-based AI research labs and institutes.
 
 - [SDSC (Swiss Data Science Center)](https://datascience.ch/) — Switzerland. Joint ETH Zurich–EPFL initiative accelerating data science and AI adoption across research and industry, and a key bridge between top-tier Swiss academia and applied deployment. `[Academic]`
 - [INRIA](https://www.inria.fr/en) — France. National research institute for digital science and technology, with major AI research teams and deep influence across European open research infrastructure. `[Academic]`
@@ -311,7 +311,7 @@ EU-based AI research labs and institutes.
 - [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html) — Germany. Applied AI research institute near Bonn specialising in ML, NLP, and generative AI for industry, with strong industry-transfer relevance beyond pure academic publishing. `[Academic]`
 - [Idiap Research Institute](https://www.idiap.ch/en) — Switzerland. Independent EPFL-affiliated institute researching speech, NLP, computer vision, and machine learning, and especially respected in multimodal and voice research. `[Academic]`
 - [ETH AI Center](https://ai.ethz.ch/) — Switzerland. Central hub for AI research at ETH Zurich, with a strong focus on trustworthy AI systems and one of the clearest concentrations of Swiss AI talent. `[Academic]`
-- [Jožef Stefan Institute (AI Lab)](http://ailab.ijs.si/) — Slovenia. Leading AI and ML research lab covering knowledge technologies, data mining, and language resources, and a major anchor for the Slovenian ecosystem. `[Academic]`
+- [Jožef Stefan Institute (AI Lab)](https://ailab.ijs.si/) — Slovenia. Leading AI and ML research lab covering knowledge technologies, data mining, and language resources, and a major anchor for the Slovenian ecosystem. `[Academic]`
 - [ZHAW Centre for Artificial Intelligence](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) — Switzerland. Applied AI research center at ZHAW focused on trustworthy AI, vision, NLP, and industry transfer, giving Switzerland another strong applied counterpart to ETH and EPFL. `[Academic]`
 - [INSAIT](https://insait.ai/) — Bulgaria. Flagship AI research institute for South-East Europe, notable for raising the regional ceiling on frontier-level AI research and talent attraction. `[Academic]`
 - [Kyutai](https://kyutai.org/) — France. Non-profit open-science AI lab publishing open models including the Moshi real-time voice assistant, proving that high-end frontier research can still be done transparently. `[Academic]` `[Open-source]`
@@ -332,7 +332,7 @@ EU-based AI research labs and institutes.
 
 ## Communities & Events
 
-Communities, forums, and events for EU AI builders.
+Resources for communities, forums, and events for EU AI builders.
 
 - [LAION Discord](https://discord.gg/laion) — Active community around open-source datasets and AI research, with a strong European contributor base and unusually direct ties to the open generative media ecosystem.
 - [ECML-PKDD](https://ecmlpkdd.org/) — European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, one of the continent's long-running anchor conferences for serious ML research.
@@ -345,8 +345,7 @@ Communities, forums, and events for EU AI builders.
 - [Croatian AI Association](https://croai.org/) — Croatian AI community connecting researchers and industry, helping a smaller national market build continuity instead of one-off initiatives.
 - [APPIA](https://www.appia.pt/) — Portuguese Association for Artificial Intelligence, connecting researchers and practitioners across Portugal and sustaining a long-running national AI network.
 - [Lithuanian AI Association](https://lithuania.ai/en/about) — National AI association connecting Lithuania's AI ecosystem across research, business, and policy, reflecting the Baltics' increasingly organized AI posture.
-- [Malta AI Association](https://malta-ai.org/) — AI community in Malta, included because smaller ecosystems still benefit from visible coordination and community infrastructure.
-- [Cyprus AI Initiative](https://cyprusai.org/) — AI community in Cyprus, helping local builders, startups, and researchers find a shared ecosystem layer.
+- [Cyprus AI Association](https://cyaia.org/) — AI community in Cyprus connecting researchers, startups, and industry, and building bridges between academia, industry, and government.
 - [Slovakia.ai](https://slovakia.ai/en/) — Association for the development and application of artificial intelligence in Slovakia, useful as a national entry point for a fast-evolving ecosystem.
 - [Hellenic AI Society (EETN)](https://www.eetn.gr/) — Greek professional association for researchers and practitioners in AI, linking academic depth with the broader Greek technology community.
 - [AI Poland](https://aipoland.org/) — Foundation promoting the Polish AI ecosystem through collaboration and policy, and important given Poland's growing weight in European AI.
